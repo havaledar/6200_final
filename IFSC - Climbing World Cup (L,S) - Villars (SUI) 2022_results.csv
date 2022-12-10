@@ -1,0 +1,282 @@
+discipline;category;rank;firstname;lastname;country;yob;Qualification 1 score;Qualification 1 rank;Qualification 2 score;Qualification 2 rank;Qualification score;Qualification rank;Semi-final score;Semi-final rank;1/8 score;1/4 score;1/2 score;Small Final score;Final score;Final rank
+lead;Men;1;Taisei;Homma;JPN;1999;TOP;1;32+;9;5.61;5;30+;7;;;;;36+;1
+lead;Men;2;Jesse;Grupper;USA;1997;29+;17;35;2;7.94;7;36;1;;;;;34+;2
+lead;Men;3;Colin;Duffy;USA;2003;TOP;1;35;2;3.24;2;34;2;;;;;34;3
+lead;Men;4;Yannick;Flohé;GER;1999;31+;13;34+;6;9.54;10;31+;4;;;;;33;4
+lead;Men;5;Satone;YOSHIDA;JPN;2004;32+;10;34;8;9.38;9;33+;3;;;;;27+;5
+lead;Men;6;Yoshiyuki;Ogata;JPN;1998;TOP;1;26+;33;10.68;11;31;5;;;;;26+;6
+lead;Men;7;Mejdi;Schalck;FRA;2004;29+;17;30;15;17.49;16;30+;8;;;;;19+;7
+lead;Men;8;Ao;YURIKUSA;JPN;2002;TOP;1;36;1;1.73;1;30+;6;;;;;18+;8
+lead;Men;9;Stefan;Scherz;AUT;2001;33;8;22+;51;21.52;18;30+;9;;;;;;
+lead;Men;10;Paul;Jenft;FRA;2003;30;16;29+;20;18.76;17;30;10;;;;;;
+lead;Men;11;Luka;Potocar;SLO;2001;37;6;35;2;4.77;3;29+;11;;;;;;
+lead;Men;12;Domen;Skofic;SLO;1994;32+;10;32+;9;10.75;12;29+;12;;;;;;
+lead;Men;13;Dohyun;LEE;KOR;2002;31+;13;31;14;14.0;14;29+;13;;;;;;
+lead;Men;14;Nicolas;Collin;BEL;1998;29+;17;27+;28;23.24;19;29+;14;;;;;;
+lead;Men;15;Sean;Bailey;USA;1996;33;8;35;2;5.45;4;26+;15;;;;;;
+lead;Men;16;Diego;Fourbet;FRA;2002;21+;32;30;15;27.5;22;26+;16;;;;;;
+lead;Men;17;Kokoro;Fujii;JPN;1992;TOP;1;32+;9;5.61;5;26;17;;;;;;
+lead;Men;18;Alexander;Megos;GER;1993;37;6;32+;9;8.26;8;21;18;;;;;;
+lead;Men;19;Sascha;Lehmann;SUI;1998;24+;24;34+;6;13.37;13;21;19;;;;;;
+lead;Men;20;Masahiro;Higuchi;JPN;1992;28;21;26+;33;28.25;26;21;20;;;;;;
+lead;Men;21;Hannes;Puman;SWE;1997;32+;10;28+;25;16.75;15;18+;21;;;;;;
+lead;Men;22;Victor;Baudrand;CAN;2003;24+;24;29+;20;24.6;21;17+;22;;;;;;
+lead;Men;23;Romaric;GEFFROY;FRA;1996;21+;32;30;15;27.5;22;17;23;;;;;;
+lead;Men;24;Nimrod;Marcus;ISR;1999;21+;32;30;15;27.5;22;16+;24;;;;;;
+lead;Men;25;Shinyeong;YUN;KOR;1995;28+;20;26+;33;27.57;25;16;25;;;;;;
+lead;Men;26;Hugo;Parmentier;FRA;1998;21+;32;32;13;24.05;20;8;26;;;;;;
+lead;Men;27;Jonas;Utelli;SUI;2003;24+;24;27+;28;28.72;27;;;;;;;;
+lead;Men;27;Yuval;Shemla;ISR;1998;24+;24;27+;28;28.72;27;;;;;;;;
+lead;Men;29;James;Pope;GBR;1998;21+;32;29+;20;31.29;29;;;;;;;;
+lead;Men;29;Hamish;McArthur;GBR;2002;21+;32;29+;20;31.29;29;;;;;;;;
+lead;Men;29;Martin;Bergant;SLO;1996;21+;32;29+;20;31.29;29;;;;;;;;
+lead;Men;32;Cheung-chi Shoji;Chan;HKG;1995;24+;24;26+;33;32.33;32;;;;;;;;
+lead;Men;32;Maximillian;Milne;GBR;2000;24+;24;26+;33;32.33;32;;;;;;;;
+lead;Men;34;Sebastian;Halenke;GER;1995;21+;32;28+;25;33.69;34;;;;;;;;
+lead;Men;35;Giovanni;Placci;ITA;2001;31+;13;2+;81;33.78;35;;;;;;;;
+lead;Men;36;Nikolay;Rusev;BUL;2006;27+;22;22+;51;34.63;36;;;;;;;;
+lead;Men;37;Martin;Stranik;CZE;1990;21+;32;28;27;34.66;37;;;;;;;;
+lead;Men;38;Sungsu;LEE;KOR;1999;13+;72;30;15;35.35;38;;;;;;;;
+lead;Men;39;Mikel Asier;Linacisoro Molina;ESP;2000;24+;24;25+;45;35.37;39;;;;;;;;
+lead;Men;40;Dimitri;Vogt;SUI;1997;26+;23;22+;51;35.4;40;;;;;;;;
+lead;Men;41;Milan;Preskar;SLO;1996;21+;32;27+;28;36.54;41;;;;;;;;
+lead;Men;41;Mathias;Posch;AUT;1999;21+;32;27+;28;36.54;41;;;;;;;;
+lead;Men;43;YONGCHEN;CHEN;CHN;2002;24+;24;23;50;37.08;43;;;;;;;;
+lead;Men;44;Anthony;Gullsten;FIN;1991;21+;32;26+;33;41.12;44;;;;;;;;
+lead;Men;44;Leto;Cavé;NED;2002;21+;32;26+;33;41.12;44;;;;;;;;
+lead;Men;44;Campbell;Harrison;AUS;1997;21+;32;26+;33;41.12;44;;;;;;;;
+lead;Men;44;Alex;Waterhouse;GBR;1997;21+;32;26+;33;41.12;44;;;;;;;;
+lead;Men;48;Giorgio;Tomatis;ITA;2003;21+;32;26;44;44.25;48;;;;;;;;
+lead;Men;49;Ross;Fulkerson;USA;2001;21+;32;24+;47;45.73;49;;;;;;;;
+lead;Men;50;Jongwon;CHON;KOR;1996;21+;32;24;48;46.22;50;;;;;;;;
+lead;Men;51;Oscar;Baudrand;CAN;2005;21+;32;23+;49;46.7;51;;;;;;;;
+lead;Men;52;Nino;Grünenfelder;SUI;2001;17+;59;26+;33;48.54;52;;;;;;;;
+lead;Men;53;Santiago;De Alba Flores;MEX;1992;21+;32;22+;51;49.25;53;;;;;;;;
+lead;Men;53;Fredrik;Serlachius;SWE;1998;21+;32;22+;51;49.25;53;;;;;;;;
+lead;Men;53;Benjamin;Hanna;USA;1998;21+;32;22+;51;49.25;53;;;;;;;;
+lead;Men;53;Vasil;Vassilev;BUL;2004;21+;32;22+;51;49.25;53;;;;;;;;
+lead;Men;57;William;Ridal;GBR;1997;19;58;25+;45;51.37;57;;;;;;;;
+lead;Men;58;Fedir;Samoilov;UKR;1997;13;76;26+;33;53.74;58;;;;;;;;
+lead;Men;59;Cheuk-hei;HO;HKG;1998;21+;32;5+;77;58.73;59;;;;;;;;
+lead;Men;60;Filip;Schenk;ITA;2000;21+;32;3+;80;59.67;60;;;;;;;;
+lead;Men;61;Kibeom;KWON;KOR;2006;21+;32;"";;60.96;61;;;;;;;;
+lead;Men;62;Guy;McNamee;CAN;2002;17+;59;21+;59;60.99;62;;;;;;;;
+lead;Men;62;JINBIN;HUANG;CHN;2005;17+;59;21+;59;60.99;62;;;;;;;;
+lead;Men;62;Benjamin;Vargas;CHI;1999;17+;59;21+;59;60.99;62;;;;;;;;
+lead;Men;65;Joe;Goodacre;USA;2001;17+;59;20+;62;62.5;65;;;;;;;;
+lead;Men;65;Jakub;Zietek;POL;2002;17+;59;20+;62;62.5;65;;;;;;;;
+lead;Men;67;Julien;Clémence;SUI;2001;13+;72;22+;51;63.29;67;;;;;;;;
+lead;Men;68;Christian;Wagner;CHI;2002;16+;66;20+;62;64.73;68;;;;;;;;
+lead;Men;69;Fabian;Förander;SWE;1998;15+;68;19+;65;67.74;69;;;;;;;;
+lead;Men;70;Ronny;Escobar;CHI;1997;16+;66;15+;71;68.71;70;;;;;;;;
+lead;Men;70;Chi-fung;AU;HKG;1995;14+;71;19+;65;68.71;70;;;;;;;;
+lead;Men;72;Joaquin;Urrutia;CHI;2005;17+;59;5+;77;69.32;72;;;;;;;;
+lead;Men;73;Kindar;McNamee;CAN;2002;15+;68;16;70;69.5;73;;;;;;;;
+lead;Men;74;Hritik;Marne;IND;2000;13+;72;19+;65;69.91;74;;;;;;;;
+lead;Men;75;Tsz-kiu;LAU;HKG;2004;15+;68;7+;76;72.42;75;;;;;;;;
+lead;Men;76;Mel;Janse van Rensburg;RSA;2001;13+;72;8;75;74.25;76;;;;;;;;
+lead;Men;77;MUSAUWIR;MUSAUWIR;INA;2004;1+;84;19+;65;74.74;77;;;;;;;;
+lead;Men;78;MUHAMMAD;RIZKY SYAHRAFLI SIMATUPANG;INA;2004;7+;79;17+;69;74.76;78;;;;;;;;
+lead;Men;79;Man-hei;CHUNG;HKG;2004;9+;78;11;72;74.94;79;;;;;;;;
+lead;Men;80;MUHAMMAD FERZA FERNADA;ABDI;INA;2003;7+;79;8+;73;77.16;80;;;;;;;;
+lead;Men;80;Joshua;Bruyns;RSA;2003;7+;79;8+;73;77.16;80;;;;;;;;
+lead;Men;82;José Alejandro;Sauceda Rodríguez;MEX;1997;10;77;2+;81;79.22;82;;;;;;;;
+lead;Men;83;Denis;Zhendinskiy;KAZ;1984;7+;79;4;79;79.99;83;;;;;;;;
+lead;Men;84;MUHAMMAD RAMZI;FIRMANSYAH;INA;2004;7+;79;"";;82.24;84;;;;;;;;
+lead;Women;1;Janja;Garnbret;SLO;1999;TOP;1;42;5;3.71;4;TOP;1;;;;;TOP;1
+lead;Women;2;Brooke;Raboutou;USA;2001;TOP;1;TOP;1;1.94;1;35;3;;;;;37+;2
+lead;Women;3;Natalia;Grossman;USA;2001;37+;7;TOP;1;3.77;5;29+;7;;;;;35+;3
+lead;Women;4;Laura;Rogora;ITA;2001;TOP;1;42+;3;2.96;2;31+;5;;;;;31+;4
+lead;Women;5;Manon;Hily;FRA;1994;40+;5;35+;7;7.42;7;29+;8;;;;;28+;5
+lead;Women;6;Chaehyun;SEO;KOR;2003;TOP;1;42+;3;2.96;2;35+;2;;;;;17+;6
+lead;Women;7;Ryu;NAKAGAWA;JPN;2004;33;15;34+;16;16.2;17;33+;4;;;;;17+;7
+lead;Women;8;Natsuki;Tanii;JPN;2003;37+;7;42;5;7.23;6;31;6;;;;;17+;8
+lead;Women;9;Mia;Krampl;SLO;2000;35+;14;35+;7;12.41;12;29+;9;;;;;;
+lead;Women;10;Mei;Kotake;JPN;1997;31+;16;28+;30;25.79;24;29+;10;;;;;;
+lead;Women;11;Hélène;Janicot;FRA;1993;39+;6;35+;7;8.12;8;29;11;;;;;;
+lead;Women;12;Sara;Copar;SLO;2005;31+;16;30+;21;19.97;19;27+;12;;;;;;
+lead;Women;13;Molly;Thompson-Smith;GBR;1997;37+;7;34+;16;12.89;13;25+;13;;;;;;
+lead;Women;14;Aleksandra;Totkova;BUL;2005;37;13;33;20;16.12;16;25;14;;;;;;
+lead;Women;15;Salomé;Romain;FRA;1996;37+;7;35+;7;10.22;9;24;15;;;;;;
+lead;Women;16;Julia;Chanourdie;FRA;1996;24+;39;35+;7;21.37;20;22;16;;;;;;
+lead;Women;17;Vita;Lukan;SLO;2000;37+;7;35+;7;10.22;9;21+;17;;;;;;
+lead;Women;18;Lucka;Rakovec;SLO;2001;31+;16;35+;7;14.46;14;19;18;;;;;;
+lead;Women;19;Liv;Egli;SUI;2003;30+;24;29+;23;24.74;22;18+;19;;;;;;
+lead;Women;20;Mattea;Pötzi;AUT;2000;31+;16;28+;30;25.79;24;18+;20;;;;;;
+lead;Women;21;YUETONG;Zhang;CHN;2003;28;28;30;22;25.04;23;17+;21;;;;;;
+lead;Women;22;Ievgeniia;Kazbekova;UKR;1996;28+;27;29+;23;26.24;26;15;22;;;;;;
+lead;Women;23;Miu;KAKIZAKI;JPN;2003;31+;16;29+;23;22.01;21;13+;23;;;;;;
+lead;Women;24;Risa;Ota;JPN;1993;31+;16;34+;16;18.23;18;9;24;;;;;;
+lead;Women;25;Tjasa;Slemensek;SLO;1999;37+;7;35+;7;10.22;9;6;25;;;;;;
+lead;Women;26;Jessica;Pilz;AUT;1996;31;23;35+;7;15.91;15;6;26;;;;;;
+lead;Women;27;Alannah;Yip;CAN;1993;31+;16;26+;42;28.42;27;;;;;;;;
+lead;Women;28;Sol;SA;KOR;1994;27;33;29+;23;29.01;28;;;;;;;;
+lead;Women;29;Futaba;Ito;JPN;2002;29;26;28+;30;30.17;29;;;;;;;;
+lead;Women;30;Michelle;Hulliger;SUI;1999;28;28;28+;30;31.58;30;;;;;;;;
+lead;Women;31;Gayeong;OH;KOR;2006;26+;34;29;29;32.09;31;;;;;;;;
+lead;Women;32;Noa;Shiran;ISR;2001;24+;39;29+;23;32.53;32;;;;;;;;
+lead;Women;33;Ilaria;Scolaris;ITA;1998;27+;30;28+;30;32.94;33;;;;;;;;
+lead;Women;34;Nolwenn;Arc;FRA;2000;18;64;34+;16;33.99;34;;;;;;;;
+lead;Women;35;ZHILU;LUO;CHN;2006;21+;47;29+;23;35.17;35;;;;;;;;
+lead;Women;36;Anne-Sophie;Koller;SUI;1996;26+;34;28+;30;35.25;36;;;;;;;;
+lead;Women;37;Lana;Skusek;SLO;2000;26;38;28+;30;36.47;37;;;;;;;;
+lead;Women;38;Yejoo;SEO;KOR;2006;29+;25;22+;48;36.57;38;;;;;;;;
+lead;Women;39;Ayala;Kerem;ISR;2001;24+;39;28+;30;38.11;39;;;;;;;;
+lead;Women;40;Michaela;Smetanova;CZE;2003;23+;45;28+;30;39.91;40;;;;;;;;
+lead;Women;41;Melina;Costanza;USA;1999;27+;30;22+;48;40.72;41;;;;;;;;
+lead;Women;42;Kyra;Condie;USA;1996;27+;30;21;60;43.49;42;;;;;;;;
+lead;Women;43;Käthe;Atkins;GER;2001;26+;34;22+;48;43.58;43;;;;;;;;
+lead;Women;44;Rebecca;Frangos;CAN;1997;24+;39;23+;46;43.93;44;;;;;;;;
+lead;Women;45;Ignacia;Mellado Quinteros;CHI;2002;18+;58;28+;30;46.02;45;;;;;;;;
+lead;Women;46;Valeri;Kremer;ISR;1991;24+;39;22+;48;47.12;46;;;;;;;;
+lead;Women;46;Stasa;Gejo;SRB;1997;24+;39;22+;48;47.12;46;;;;;;;;
+lead;Women;48;Quinn;Mason;USA;2003;21+;47;23+;46;47.49;48;;;;;;;;
+lead;Women;49;Anja;Köhler ;SUI;2004;19+;52;26+;42;47.91;49;;;;;;;;
+lead;Women;50;Momoko;ABE;JPN;2003;18;64;28+;30;48.06;50;;;;;;;;
+lead;Women;51;Sabina;van Essen;NED;2005;26+;34;14+;68;49.31;51;;;;;;;;
+lead;Women;52;Babette;Roy;CAN;2002;19;57;25+;45;50.65;52;;;;;;;;
+lead;Women;53;Luisa;Flohé;GER;2001;21+;47;22+;48;50.94;53;;;;;;;;
+lead;Women;53;Noé;Looser;SUI;2006;21+;47;22+;48;50.94;53;;;;;;;;
+lead;Women;55;Emi;Takashiba;CAN;2004;18+;58;26;44;51.59;55;;;;;;;;
+lead;Women;56;Valentina;Aguado;ARG;2001;18;64;28;41;52.02;56;;;;;;;;
+lead;Women;57;Kylie;Cullen;USA;2004;19+;52;22+;48;53.75;57;;;;;;;;
+lead;Women;57;HONGCHUN;XIANG;CHN;1998;23+;45;20+;63;53.75;57;;;;;;;;
+lead;Women;57;Jennifer;Wood;GBR;1994;19+;52;22+;48;53.75;57;;;;;;;;
+lead;Women;57;Naama;Yohai;ISR;2000;19+;52;22+;48;53.75;57;;;;;;;;
+lead;Women;61;Thea;Cameron;GBR;2000;18+;58;22+;48;56.89;61;;;;;;;;
+lead;Women;62;SUKMA;LINTANG CAHYANI;INA;2004;21;51;15;67;58.46;62;;;;;;;;
+lead;Women;63;Alejandra;Contreras;CHI;2000;19+;52;20+;63;58.56;63;;;;;;;;
+lead;Women;64;Margarita;Agambayeva;KAZ;1999;18;64;22+;48;59.42;64;;;;;;;;
+lead;Women;65;Martina;Demmel;GER;2001;18+;58;21;60;60.75;65;;;;;;;;
+lead;Women;66;Maya;Dreamer;ISR;2001;17+;69;21;60;64.88;66;;;;;;;;
+lead;Women;67;Aida;Torres Illamola;ESP;2002;18+;58;14;70;65.08;67;;;;;;;;
+lead;Women;68;Indiana;Chapman;CAN;2003;18;64;17;65;65.5;68;;;;;;;;
+lead;Women;69;Muykuay;Silva;CHI;1998;18+;58;13+;71;65.54;69;;;;;;;;
+lead;Women;70;Emily;Scott;AUS;2006;15;73;16+;66;69.41;70;;;;;;;;
+lead;Women;71;Elizabeth;Sepulveda;PUR;2002;14+;74;14+;68;71.2;71;;;;;;;;
+lead;Women;72;Tseng-shun;WONG;HKG;2001;15+;70;12+;72;71.5;72;;;;;;;;
+lead;Women;73;NUR;KHALISHAH;INA;2004;15+;70;11;73;72.24;73;;;;;;;;
+lead;Women;74;Mariana;Hanggi Correia;BRA;2006;15+;70;10+;75;73.22;74;;;;;;;;
+lead;Women;75;María Fernanda;Hidalgo Amezquita;MEX;2001;9+;77;11;73;75.23;75;;;;;;;;
+lead;Women;76;Mia;Weeda;AUS;2004;12+;75;10+;75;75.25;76;;;;;;;;
+lead;Women;77;NUR DIATUL;JANNAH;INA;2004;10+;76;10;77;76.75;77;;;;;;;;
+lead;Women;78;Phoebe;Kenderdine;NZL;2003;8+;78;10;77;77.75;78;;;;;;;;
+lead;Women;;Wai-mui;LING;HKG;2001;DNS;;DNS;;DNS;;;;;;;;;
+lead;Women;;Emily;Phillips;GBR;2002;DNS;;DNS;;DNS;;;;;;;;;
+speed;Men;1;JIANGUO;LONG;CHN;2003;;;;;5.22;3;;;5.39;5.19;5.22;;5.23;1
+speed;Men;2;PENG;WU;CHN;2002;;;;;5.32;4;;;5.55;5.51;5.31;;5.24;2
+speed;Men;3;JINBAO;LONG;CHN;2000;;;;;5.36;7;;;5.34;WILDCARD;6.36;5.16;;3
+speed;Men;4;VEDDRIQ;LEONARDO;INA;1997;;;;;5.37;8;;;5.52;5.30;5.35;FALL;;4
+speed;Men;5;KIROMAL;KATIBIN;INA;2000;;;;;5.04 (WR) (AsR);1;;;WILDCARD;FALL;;;;5
+speed;Men;6;LONG;CAO;CHN;2000;;;;;5.21;2;;;5.45;FALSE START;;;;6
+speed;Men;7;John;Brosler;USA;1997;;;;;5.35;6;;;WILDCARD;5.31;;;;7
+speed;Men;8;Guillaume;Moro;FRA;1994;;;;;5.49;12;;;WILDCARD;6.13;;;;8
+speed;Men;9;Reza;Alipour Shenazandifard;IRI;1994;;;;;5.33;5;;;FALSE START;;;;;9
+speed;Men;10;ALFIAN;MUHAMMAD FAJRI;INA;1997;;;;;5.43;9;;;6.39;;;;;10
+speed;Men;11;RAHMAD;ADI MULYONO;INA;2000;;;;;5.450;10;;;5.47;;;;;11
+speed;Men;12;Ludovico;Fossali;ITA;1997;;;;;5.453;11;;;FALSE START;;;;;12
+speed;Men;13;Erik;Noya Cardona;ESP;1994;;;;;5.50;13;;;5.66;;;;;13
+speed;Men;14;Marcin;Dzienski;POL;1993;;;;;5.54;14;;;5.59;;;;;14
+speed;Men;15;ZAENAL;ARIPIN;INA;1992;;;;;5.57;15;;;5.66;;;;;15
+speed;Men;16;Samuel;Watson;USA;2006;;;;;5.58;16;;;FALSE START;;;;;16
+speed;Men;17;ASPAR;ASPAR;INA;1992;;;;;5.59;17;;;;;;;;
+speed;Men;18;Ryo;OMASA;JPN;2002;;;;;5.61;18;;;;;;;;
+speed;Men;19;Euncheol;SHIN;KOR;1999;;;;;5.63;19;;;;;;;;
+speed;Men;20;Gian Luca;Zodda;ITA;1999;;;;;5.704;20;;;;;;;;
+speed;Men;21;Rishat;Khaibullin;KAZ;1995;;;;;5.705;21;;;;;;;;
+speed;Men;22;Yongjun;JUNG;KOR;2003;;;;;5.73;22;;;;;;;;
+speed;Men;23;Leander;Carmanns;GER;2004;;;;;5.74;23;;;;;;;;
+speed;Men;24;Alessandro;Cingari;ITA;1999;;;;;5.78;24;;;;;;;;
+speed;Men;25;Noah;Bratschi;USA;2000;;;;;5.791;25;;;;;;;;
+speed;Men;26;Alessandro;Boulos;ITA;1994;;;;;5.798;26;;;;;;;;
+speed;Men;27;Tobias;Plangger;AUT;2001;;;;;5.83 (5.850);27;;;;;;;;
+speed;Men;28;Pierre;Rebreyend;FRA;1997;;;;;5.83 (5.965);28;;;;;;;;
+speed;Men;29;Matteo;Zurloni;ITA;2002;;;;;5.84;29;;;;;;;;
+speed;Men;30;Carlos;Granja;ECU;1999;;;;;5.85;30;;;;;;;;
+speed;Men;31;Michael;Finn-Henry;CAN;1999;;;;;5.87;31;;;;;;;;
+speed;Men;32;Ethan;Pitcher;CAN;2001;;;;;5.88;32;;;;;;;;
+speed;Men;33;Ehsan;Asrar;IRI;1998;;;;;5.902;33;;;;;;;;
+speed;Men;34;Zach;Hammer;USA;2006;;;;;5.904;34;;;;;;;;
+speed;Men;35;Shuto;FUJINO;JPN;2004;;;;;5.909;35;;;;;;;;
+speed;Men;36;Jun;YASUKAWA;JPN;2003;;;;;5.92;36;;;;;;;;
+speed;Men;37;Mohsen;Shafiei;IRI;1989;;;;;5.96;37;;;;;;;;
+speed;Men;38;Isaac;Estevez ;ECU;1992;;;;;5.983;38;;;;;;;;
+speed;Men;39;Sebastian;Lucke;GER;2002;;;;;5.986;39;;;;;;;;
+speed;Men;40;Alisher;Murat;KAZ;1997;;;;;5.991;40;;;;;;;;
+speed;Men;41;Kostiantyn;Pavlenko;UKR;1998;;;;;5.995;41;;;;;;;;
+speed;Men;42;Yann;LE CLERCQ DE LANNOY;FRA;1999;;;;;6.00;42;;;;;;;;
+speed;Men;43;Lukas;Knapp;AUT;1997;;;;;6.09;43;;;;;;;;
+speed;Men;44;Oskar;Szalecki;POL;2006;;;;;6.13;44;;;;;;;;
+speed;Men;45;Cheung-chi Shoji;Chan;HKG;1995;;;;;6.18;45;;;;;;;;
+speed;Men;46;Quinn;O'Francia;USA;2004;;;;;6.20;46;;;;;;;;
+speed;Men;47;Linus;Bader;GER;2002;;;;;6.22;47;;;;;;;;
+speed;Men;48;Ayumu;MITA;JPN;2005;;;;;6.27;48;;;;;;;;
+speed;Men;49;Yudai;Ikeda;JPN;1998;;;;;6.28;49;;;;;;;;
+speed;Men;50;Minsu;KANG;KOR;2001;;;;;6.33;50;;;;;;;;
+speed;Men;51;Taeung;MOON;KOR;2001;;;;;6.34;51;;;;;;;;
+speed;Men;52;Jan;Kriz;CZE;1996;;;;;6.35;52;;;;;;;;
+speed;Men;53;Joe;Goodacre;USA;2001;;;;;6.39;53;;;;;;;;
+speed;Men;54;Dylan;Le;CAN;2005;;;;;6.46;54;;;;;;;;
+speed;Men;55;Chi-fung;AU;HKG;1995;;;;;6.555;55;;;;;;;;
+speed;Men;56;Matvey;Yessipov;KAZ;2003;;;;;6.558;56;;;;;;;;
+speed;Men;57;Marius;Payet Gaboriaud;FRA;2005;;;;;6.58;57;;;;;;;;
+speed;Men;58;Cheuk-nam;WONG;HKG;2001;;;;;6.61;58;;;;;;;;
+speed;Men;59;Alejandro;Rivas Domínguez;ESP;2001;;;;;6.68;59;;;;;;;;
+speed;Men;60;LIANG;ZHANG;CHN;2003;;;;;6.75;60;;;;;;;;
+speed;Men;61;Micah;Liss;USA;2003;;;;;7.29;61;;;;;;;;
+speed;Men;62;Joshua;Bruyns;RSA;2003;;;;;7.30;62;;;;;;;;
+speed;Men;63;Matthew;Fall;GBR;2002;;;;;7.50;63;;;;;;;;
+speed;Men;64;Valentin;Sternik;ARG;2001;;;;;7.88;64;;;;;;;;
+speed;Men;65;Rafe;Stokes;GBR;2005;;;;;7.93;65;;;;;;;;
+speed;Men;66;Amir;Maimuratov;KAZ;1995;;;;;10.94;66;;;;;;;;
+speed;Men;67;Tsz-kiu;LAU;HKG;2004;;;;;12.17;67;;;;;;;;
+speed;Men;68;Lawrence;Bogeschdorfer;AUT;2002;;;;;FALL;68;;;;;;;;
+speed;Men;69;Man-hei;CHUNG;HKG;2004;;;;;FALSE START;69;;;;;;;;
+speed;Women;1;LIJUAN;DENG;CHN;2000;;;;;6.94;2;;;7.02;6.95;6.82;;6.87;1
+speed;Women;2;DI;NIU;CHN;1996;;;;;6.91 (AsR);1;;;7.01;7.02;6.96;;8.22;2
+speed;Women;3;DESAK;MADE RITA KUSUMA DEWI;INA;2001;;;;;6.97;4;;;7.19;7.18;7.07;7.06;;3
+speed;Women;4;Anna;Brozek;POL;1995;;;;;7.66;14;;;7.52;7.52;7.28;7.39;;4
+speed;Women;5;RAJIAH;SALLSABILLAH;INA;1999;;;;;7.05;5;;;7.28;8.43;;;;5
+speed;Women;6;Emma;Hunt;USA;2003;;;;;7.19;6;;;7.23;9.17;;;;6
+speed;Women;7;Natalia;Kalucka;POL;2001;;;;;7.26;8;;;WILDCARD;8.30;;;;7
+speed;Women;8;Capucine;Viglione;FRA;2002;;;;;7.38;10;;;7.62;8.37;;;;8
+speed;Women;9;Aleksandra;Kalucka;POL;2001;;;;;6.95;3;;;8.03;;;;;9
+speed;Women;10;Aurelia;Sarisson;FRA;1997;;;;;7.21;7;;;FALL;;;;;10
+speed;Women;11;SHENGYAN;WANG;CHN;2000;;;;;7.36;9;;;FALSE START;;;;;11
+speed;Women;12;Patrycja;Chudziak;POL;1997;;;;;7.40;11;;;7.62;;;;;12
+speed;Women;13;NURUL;IQAMAH;INA;1995;;;;;7.43;12;;;7.73;;;;;13
+speed;Women;14;Andrea;Rojas;ECU;1995;;;;;7.60;13;;;7.95;;;;;14
+speed;Women;15;Franziska;Ritter;GER;2003;;;;;7.72;15;;;7.77;;;;;15
+speed;Women;16;Beatrice;Colli;ITA;2004;;;;;7.78;16;;;7.60;;;;;16
+speed;Women;17;Leslie Adriana;Romero Pérez;ESP;1998;;;;;7.80;17;;;;;;;;
+speed;Women;18;Alivany;Ver Khadijah;INA;2002;;;;;7.83;18;;;;;;;;
+speed;Women;19;Giulia;Randi ;ITA;2002;;;;;7.85;19;;;;;;;;
+speed;Women;20;Nuria;Brockfeld;GER;2004;;;;;7.92;20;;;;;;;;
+speed;Women;21;Victoire;Andrier;FRA;1996;;;;;7.96;21;;;;;;;;
+speed;Women;22;Tamara;Ulzhabayeva;KAZ;1987;;;;;8.00;22;;;;;;;;
+speed;Women;23;Carla;Martínez Vidal;ESP;2002;;;;;8.02;23;;;;;;;;
+speed;Women;24;Jimin;JEONG;KOR;2004;;;;;8.05;24;;;;;;;;
+speed;Women;25;GUIZHEN;XIE;CHN;1998;;;;;8.07;25;;;;;;;;
+speed;Women;26;Karin;HAYASHI;JPN;2005;;;;;8.10;26;;;;;;;;
+speed;Women;27;Julia;Koch;GER;2000;;;;;8.15;27;;;;;;;;
+speed;Women;28;Ai;TAKEUCHI;JPN;2005;;;;;8.241;28;;;;;;;;
+speed;Women;29;SUSAN;NURHIDAYAH;INA;2003;;;;;8.247;29;;;;;;;;
+speed;Women;30;Fumika;KAWAKAMI;JPN;2006;;;;;8.33;30;;;;;;;;
+speed;Women;31;Piper;Kelly;USA;1999;;;;;8.38;31;;;;;;;;
+speed;Women;32;María;Laborda Sagaste;ESP;2004;;;;;8.45;32;;;;;;;;
+speed;Women;33;Laura;Stöckler;AUT;1999;;;;;8.49;33;;;;;;;;
+speed;Women;34;Margarita;Agambayeva;KAZ;1999;;;;;8.57;34;;;;;;;;
+speed;Women;35;Sarah;Vouaux;FRA;1999;;;;;8.72;35;;;;;;;;
+speed;Women;36;Heeju;NOH;KOR;2004;;;;;8.73;36;;;;;;;;
+speed;Women;37;Erica;Velev;CAN;2002;;;;;8.78;37;;;;;;;;
+speed;Women;38;Assel;Marlenova;KAZ;1997;;;;;8.80;38;;;;;;;;
+speed;Women;39;Sophia;Curcio;USA;2006;;;;;8.99;39;;;;;;;;
+speed;Women;40;Alejandra;Contreras;CHI;2000;;;;;9.17;40;;;;;;;;
+speed;Women;41;Liberty;Runnels;USA;2006;;;;;9.20;41;;;;;;;;
+speed;Women;42;Valeria;Macias Ferreira;MEX;2001;;;;;9.25;42;;;;;;;;
+speed;Women;43;Hanareum;SUNG;KOR;2005;;;;;9.61;43;;;;;;;;
+speed;Women;44;Manon;Lebon;FRA;2005;;;;;9.64;44;;;;;;;;
+speed;Women;45;Natsumi;HAYASHI;JPN;1991;;;;;9.65;45;;;;;;;;
+speed;Women;46;Mia;Weeda;AUS;2004;;;;;11.45;46;;;;;;;;
+speed;Women;47;María Fernanda;Hidalgo Amezquita;MEX;2001;;;;;12.93;47;;;;;;;;
+speed;Women;48;YUFANG;XIE;CHN;2002;;;;;FALSE START;48;;;;;;;;

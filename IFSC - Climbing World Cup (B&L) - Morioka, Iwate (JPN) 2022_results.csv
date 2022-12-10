@@ -1,0 +1,68 @@
+discipline;category;rank;firstname;lastname;country;yob;Qualification score;Qualification rank;Semi-final score;Semi-final rank;Final score;Final rank
+boulder&lead;Men;1;Tomoa;Narasaki;JPN;1996;139.0;3;141.9;1;156.4;1
+boulder&lead;Men;2;Yoshiyuki;Ogata;JPN;1998;120.7;8;132.4;2;138.4;2
+boulder&lead;Men;3;Kokoro;Fujii;JPN;1992;103.7;16;115.5;6;132.6;3
+boulder&lead;Men;4;Paul;Jenft;FRA;2003;123.6;7;112.0;8;129.7;4
+boulder&lead;Men;5;Yannick;Flohé;GER;1999;115.3;10;115.9;5;128.5;5
+boulder&lead;Men;6;Taisei;Homma;JPN;1999;124.4;6;128.6;3;117.5;6
+boulder&lead;Men;7;Rei;Kawamata;JPN;2003;114.1;13;113.1;7;109.5;7
+boulder&lead;Men;8;Sean;Bailey;USA;1996;163.2;1;117.8;4;76.6;8
+boulder&lead;Men;9;Masahiro;Higuchi;JPN;1992;105.1;15;103.8;9;;
+boulder&lead;Men;10;Colin;Duffy;USA;2003;114.4;12;102.1;10;;
+boulder&lead;Men;11;Mejdi;Schalck;FRA;2004;125.1;5;100.1;11;;
+boulder&lead;Men;12;Ao;YURIKUSA;JPN;2002;118.0;9;98.7;12;;
+boulder&lead;Men;13;Toby;Roberts;GBR;2005;99.9;17;92.2;13;;
+boulder&lead;Men;14;Sascha;Lehmann;SUI;1998;150.6;2;90.4;14;;
+boulder&lead;Men;15;Satone;YOSHIDA;JPN;2004;112.5;14;80.3;15;;
+boulder&lead;Men;16;Jesse;Grupper;USA;1997;128.9;4;78.7;16;;
+boulder&lead;Men;17;Nicolas;Collin;BEL;1998;115.3;10;75.4;17;;
+boulder&lead;Men;18;Hannes;Puman;SWE;1997;91.0;19;71.5;18;;
+boulder&lead;Men;19;Hannes;Van Duysen;BEL;2004;88.8;20;62.4;19;;
+boulder&lead;Men;20;Shinyeong;YUN;KOR;1995;97.6;18;38.5;20;;
+boulder&lead;Men;21;Sam;Avezou;FRA;2001;88.6;21;;;;
+boulder&lead;Men;22;Anze;Peharc;SLO;1997;88.5;22;;;;
+boulder&lead;Men;23;Yannick;Nagel;GER;2005;83.8;23;;;;
+boulder&lead;Men;24;Christoph;Schweiger;GER;2001;77.7;24;;;;
+boulder&lead;Men;25;Luke;GOH WEN BIN;SGP;2002;69.4;25;;;;
+boulder&lead;Men;26;Oscar;Baudrand;CAN;2005;63.7;26;;;;
+boulder&lead;Men;27;RAVIANDI;RAMADHAN;INA;2002;63.5;27;;;;
+boulder&lead;Men;28;Thilo Jeldrik;Schröter;NOR;1996;53.2;28;;;;
+boulder&lead;Men;29;Cheuk-hei;HO;HKG;1998;51.5;29;;;;
+boulder&lead;Men;30;Cheung-chi Shoji;Chan;HKG;1995;50.1;30;;;;
+boulder&lead;Men;31;DOHYEON;KIM;KOR;2005;49.6;31;;;;
+boulder&lead;Men;32;Philipp;Martin;GER;1994;49.1;32;;;;
+boulder&lead;Men;33;Felipe ;Ho Foganholo;BRA;1999;48.5;33;;;;
+boulder&lead;Men;34;YONGCHEN;CHEN;CHN;2002;46.6;34;;;;
+boulder&lead;Men;35;RAVIANTO;RAMADHAN;INA;2002;43.4;35;;;;
+boulder&lead;Men;36;Chia Hsiang;Lin;TPE;1998;35.1;36;;;;
+boulder&lead;Men;37;Ka-chun;Yau;HKG;1992;30.7;37;;;;
+boulder&lead;Men;;Amir;Nouri;IRI;1990;DNS;;;;;
+boulder&lead;Men;;Chi-fung;AU;HKG;1995;DNS;;;;;
+boulder&lead;Women;1;Ai;Mori;JPN;2003;183.2;1;169.3;1;190.9;1
+boulder&lead;Women;2;Natalia;Grossman;USA;2001;160.8;2;148.7;2;171.2;2
+boulder&lead;Women;3;Chaehyun;SEO;KOR;2003;150.8;4;118.8;6;131.8;3
+boulder&lead;Women;4;Brooke;Raboutou;USA;2001;148.6;5;138.5;4;126.0;4
+boulder&lead;Women;5;Miho;Nonaka;JPN;1997;122.9;9;138.7;3;104.0;5
+boulder&lead;Women;6;Natsuki;Tanii;JPN;2003;104.0;12;123.1;5;97.3;6
+boulder&lead;Women;7;Futaba;Ito;JPN;2002;129.0;6;108.7;7;74.9;7
+boulder&lead;Women;8;Mia;Krampl;SLO;2000;101.6;13;100.4;8;63.8;8
+boulder&lead;Women;9;ZHILU;LUO;CHN;2006;82.9;18;82.3;9;;
+boulder&lead;Women;10;Ryu;NAKAGAWA;JPN;2004;89.2;15;78.9;10;;
+boulder&lead;Women;11;Nanako;Kura;JPN;2000;108.3;11;77.8;11;;
+boulder&lead;Women;12;Manon;Hily;FRA;1994;79.8;19;76.8;12;;
+boulder&lead;Women;13;Chloe;Caulier;BEL;1996;97.0;14;73.3;13;;
+boulder&lead;Women;14;Oriane;Bertone;FRA;2005;159.4;3;67.9;14;;
+boulder&lead;Women;15;Cloe;Coscoy;USA;2001;126.3;8;59.3;15;;
+boulder&lead;Women;16;Andrea;Kümin;SUI;1997;84.2;17;57.5;16;;
+boulder&lead;Women;17;Risa;Ota;JPN;1993;84.9;16;55.6;17;;
+boulder&lead;Women;18;Lucia;Dörffel;GER;2000;127.4;7;52.7;18;;
+boulder&lead;Women;19;Mia;AOYAGI;JPN;2003;118.7;10;52.6;19;;
+boulder&lead;Women;20;Kylie;Cullen;USA;2004;74.6;20;41.0;20;;
+boulder&lead;Women;21;YUETONG;Zhang;CHN;2003;61.9;21;;;;
+boulder&lead;Women;22;Vita;Lukan;SLO;2000;57.5;22;;;;
+boulder&lead;Women;23;Noa;Shiran;ISR;2001;54.5;23;;;;
+boulder&lead;Women;24;Alannah;Yip;CAN;1993;49.3;24;;;;
+boulder&lead;Women;25;Hsiu-Ju;Lin;TPE;1993;35.8;25;;;;
+boulder&lead;Women;26;Hung Ying;Lee;TPE;1985;33.5;26;;;;
+boulder&lead;Women;27;Mariana;Hanggi Correia;BRA;2006;14.3;27;;;;
+boulder&lead;Women;28;SELENGE;NYAMDOO;MGL;2005;0.0;28;;;;
