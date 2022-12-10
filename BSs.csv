@@ -1,0 +1,747 @@
+City,Country,Year,Ds,Event,discipline,category,rank,firstname,lastname,country,yob,Qualification score,Qualification rank,Semi-Final score,Semi-Final rank,1/8 score,1/4 score,1/2 score,Small Final score,Final score,Final rank
+Salt Lake City,USA,2021,BS,WC,speed,Men,1,VEDDRIQ,LEONARDO,INA,1997,5.37,2,,,5.55,5.42,5.38,,5.20 (WR),1
+Salt Lake City,USA,2021,BS,WC,speed,Men,2,KIROMAL,KATIBIN,INA,2000,5.25 (WR),1,,,5.49,WILDCARD,5.35,,FALL,2
+Salt Lake City,USA,2021,BS,WC,speed,Men,3,Marcin,Dzienski,POL,1993,5.9,4,,,6.22,5.88,5.77,5.84,,3
+Salt Lake City,USA,2021,BS,WC,speed,Men,4,John,Brosler,USA,1997,5.60 (R),3,,,5.72,5.98,5.76,6.89,,4
+Salt Lake City,USA,2021,BS,WC,speed,Men,5,Merritt,Ernsberger,USA,1999,6.19,11,,,7.82,6.13,,,,5
+Salt Lake City,USA,2021,BS,WC,speed,Men,6,Jun,YASUKAWA,JPN,2003,6.253,12,,,6.18,6.23,,,,6
+Salt Lake City,USA,2021,BS,WC,speed,Men,7,Pierre,Rebreyend,FRA,1997,6.14,9,,,5.94,FALSE START,,,,7
+Salt Lake City,USA,2021,BS,WC,speed,Men,8,Yaroslav,Tkach,UKR,2001,6.17,10,,,6.5,FALL,,,,8
+Salt Lake City,USA,2021,BS,WC,speed,Men,9,Ludovico,Fossali,ITA,1997,6.09,8,,,5.95,,,,,9
+Salt Lake City,USA,2021,BS,WC,speed,Men,10,Guillaume,Moro,FRA,1994,6.36,16,,,6.12,,,,,10
+Salt Lake City,USA,2021,BS,WC,speed,Men,11,Mickael,Mawem,FRA,1990,6.28,14,,,6.79,,,,,11
+Salt Lake City,USA,2021,BS,WC,speed,Men,12,Michael,Finn-Henry,CAN,1999,6.255,13,,,7.79,,,,,12
+Salt Lake City,USA,2021,BS,WC,speed,Men,13,Gian Luca,Zodda,ITA,1999,6.06,7,,,7.88,,,,,13
+Salt Lake City,USA,2021,BS,WC,speed,Men,14,Kostiantyn,Pavlenko,UKR,1998,6.02,5,,,8.28,,,,,14
+Salt Lake City,USA,2021,BS,WC,speed,Men,15,Carlos,Granja,ECU,1999,6.03,6,,,8.73,,,,,15
+Salt Lake City,USA,2021,BS,WC,speed,Men,16,Linus,Bader,GER,2002,6.32,15,,,11.09,,,,,16
+Salt Lake City,USA,2021,BS,WC,speed,Men,17,Jan,Kriz,CZE,1996,6.4,17,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,18,Ethan,Pitcher,CAN,2001,6.54,18,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,19,Amir,Maimuratov,KAZ,1995,6.56,19,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,20,Colin,Duffy,USA,2003,6.75,20,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,21,Stefan,Fellner,USA,2001,6.76,21,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,22,Christopher,Cosser,RSA,2000,6.83,22,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,23,Darren,Skolnik,USA,2002,6.86,23,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,24,Quinn,O'Francia,USA,2004,6.87,24,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,25,Jan,Hojer,GER,1992,6.88,25,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,26,Paolo ,Rivadeneira,ECU,2004,6.91,26,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,27,Nathaniel,Coleman,USA,1997,6.97,27,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,28,Nickolaie,RIVADENEIRA ,ECU,2001,7.09,28,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,29,Michael,Piccolruaz,ITA,1995,7.15,29,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,30,Caden,Reedy,USA,2005,7.26,30,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,31,Noah,Bratschi,USA,2000,7.36,31,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,32,Tobias,Plangger,AUT,2001,7.55,32,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,33,Sean,McColl,CAN,1987,7.81,33,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,34,Kai,Harada,JPN,1999,7.89,34,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,35,Munekazu,KITAMI,JPN,1992,8.06,35,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,36,Frederik,Viberg Christiansen,DEN,2001,9.58,36,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,37,Tomas,Chicaiza,ECU,2005,9.81,37,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Men,38,Tomoa,Narasaki,JPN,1996,FALSE START,38,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,1,Aleksandra,Miroslaw,POL,1994,7.2,1,,,7.83,7.59,7.4,,7.38,1
+Salt Lake City,USA,2021,BS,WC,speed,Women,2,Emma,Hunt,USA,2003,7.52,2,,,7.61,7.62,7.77,,7.53,2
+Salt Lake City,USA,2021,BS,WC,speed,Women,3,Miho,Nonaka,JPN,1997,8.58,11,,,8.5,8.2,8.36,8.95,,3
+Salt Lake City,USA,2021,BS,WC,speed,Women,4,Patrycja,Chudziak,POL,1997,8.28,5,,,8.16,8.18,8.37,10.4,,4
+Salt Lake City,USA,2021,BS,WC,speed,Women,5,Anouck,Jaubert,FRA,1994,8.49,9,,,8.16,7.78,,,,5
+Salt Lake City,USA,2021,BS,WC,speed,Women,6,Natalia,Kalucka,POL,2001,7.68,3,,,9.59,8.48,,,,6
+Salt Lake City,USA,2021,BS,WC,speed,Women,7,Alexandra,Elmer,AUT,1996,8.54,10,,,9,8.63,,,,7
+Salt Lake City,USA,2021,BS,WC,speed,Women,8,Capucine,Viglione,FRA,2002,7.94,4,,,7.87,10.58,,,,8
+Salt Lake City,USA,2021,BS,WC,speed,Women,9,Franziska,Ritter,GER,2003,8.33,6,,,8.52,,,,,9
+Salt Lake City,USA,2021,BS,WC,speed,Women,10,Callie,Close,USA,2004,8.72,13,,,8.7,,,,,10
+Salt Lake City,USA,2021,BS,WC,speed,Women,11,Tetiana,Kolkotina,UKR,1992,8.68,12,,,8.95,,,,,11
+Salt Lake City,USA,2021,BS,WC,speed,Women,12,Brooke,Raboutou,USA,2001,9.36,16,,,9.55,,,,,12
+Salt Lake City,USA,2021,BS,WC,speed,Women,13,Akiyo,Noguchi,JPN,1989,9.12,15,,,10.2,,,,,13
+Salt Lake City,USA,2021,BS,WC,speed,Women,14,Kyra,Condie,USA,1996,8.43,8,,,10.82,,,,,14
+Salt Lake City,USA,2021,BS,WC,speed,Women,15,Janja,Garnbret,SLO,1999,8.36,7,,,14.47,,,,,15
+Salt Lake City,USA,2021,BS,WC,speed,Women,16,Laura,Stöckler,AUT,1999,8.77,14,,,14.94,,,,,16
+Salt Lake City,USA,2021,BS,WC,speed,Women,17,Petra,Klingler,SUI,1992,9.42,17,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,18,Alejandra,Contreras,CHI,2000,9.76,18,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,19,Julia,Duffy,USA,2004,10.27,19,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,20,Isabel,Gifford,USA,1999,11.28,20,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,21,Laura,Rogora,ITA,2001,11.59,21,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,22,Erin,Sterkenburg,RSA,2003,12.04,22,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,23,Aurelia,Sarisson,FRA,1997,12.28,23,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,speed,Women,24,Gabrielle,Tourtellotte,USA,1996,FALL,24,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,1,Sean,Bailey,USA,1996,4T5z 13 13,13,4T4z 13 12,2,,,,,2T4z 9 11,1
+Salt Lake City,USA,2021,BS,WC,boulder,Men,2,Kokoro,Fujii,JPN,1992,5T5z 7 7,1,3T4z 7 7,5,,,,,1T4z 9 12,2
+Salt Lake City,USA,2021,BS,WC,boulder,Men,3,Tomoa,Narasaki,JPN,1996,5T5z 8 6,2,4T4z 7 4,1,,,,,1T3z 1 3,3
+Salt Lake City,USA,2021,BS,WC,boulder,Men,4,Yoshiyuki,Ogata,JPN,1998,4T4z 8 6,16,3T4z 4 4,4,,,,,0T2z 0 4,4
+Salt Lake City,USA,2021,BS,WC,boulder,Men,5,Zach,Galla,USA,2000,4T5z 12 12,12,3T4z 3 9,3,,,,,0T1z 0 1,5
+Salt Lake City,USA,2021,BS,WC,boulder,Men,6,Maximillian,Milne,GBR,2000,4T4z 11 9,18,3T4z 9 13,6,,,,,0T1z 0 2,6
+Salt Lake City,USA,2021,BS,WC,boulder,Men,7,Manuel,Cornu,FRA,1993,3T5z 4 14,20,3T4z 9 15,7,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,8,Alex,Waterhouse,GBR,1997,4T5z 6 13,7,2T4z 2 12,8,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,9,Mejdi,Schalck,FRA,2004,4T5z 8 8,8,2T4z 3 9,9,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,10,Nathaniel,Coleman,USA,1997,4T5z 9 9,11,2T4z 3 9,10,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,11,Aleksey,Rubtsov,RUS,1988,3T5z 3 13,19,2T4z 3 10,11,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,12,Simon,Lorenzi,BEL,1997,4T5z 5 6,6,2T4z 3 11,12,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,13,Sohta,Amagasa,JPN,2000,5T5z 13 7,5,2T4z 4 6,13,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,14,Alexander,Megos,GER,1993,4T5z 8 9,10,2T4z 4 9,14,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,15,Nicolai,Uznik,AUT,2000,5T5z 12 9,4,2T4z 7 11,15,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,16,Anze,Peharc,SLO,1997,5T5z 9 7,3,2T3z 2 4,16,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,17,Nicolas,Collin,BEL,1998,4T5z 8 8,8,2T3z 5 6,17,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,18,Rei,Sugimoto,JPN,1991,4T5z 14 13,14,1T4z 1 10,18,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,19,Sean,McColl,CAN,1987,4T4z 11 8,17,1T4z 3 16,19,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,20,Yannick,Flohé,GER,1999,4T4z 7 6,15,1T4z 3 17,20,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,21,Filip,Schenk,ITA,2000,3T5z 7 8,21,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,22,Jan,Hojer,GER,1992,3T5z 7 9,22,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,23,Christoph,Schweiger,GER,2001,3T5z 7 15,23,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,24,Gregor,Vezonik,SLO,1995,3T5z 8 11,24,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,25,Elias,Arriagada Krüger,GER,2000,3T5z 10 14,25,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,26,Yuval,Shemla,ISR,1998,3T5z 13 13,26,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,27,Mickael,Mawem,FRA,1990,3T4z 4 5,27,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,28,Ross,Fulkerson,USA,2001,3T4z 4 10,28,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,29,Alex,Khazanov,ISR,1995,3T4z 6 9,29,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,29,Zander,Waller,USA,2003,3T4z 6 9,29,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,31,Nathan,Phillips,GBR,1994,3T4z 9 10,31,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,32,Tomoaki,Takata,JPN,1995,3T4z 10 7,32,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,33,William,Ridal,GBR,1997,3T3z 4 4,33,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,34,Kai,Harada,JPN,1999,2T5z 5 13,34,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,35,Michael,Piccolruaz,ITA,1995,2T5z 5 15,35,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,36,Max,Kleesattel,GER,1998,2T5z 11 15,36,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,37,Benjamin,Hanna,USA,1998,2T4z 3 12,37,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,38,Colin,Duffy,USA,2003,2T4z 5 7,38,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,39,Matthew,Cousins,GBR,1989,2T4z 5 12,39,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,40,Oscar,Baudrand,CAN,2005,2T4z 5 20,40,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,41,Nimrod,Marcus,ISR,1999,2T4z 6 9,41,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,42,Charles,Barron,USA,1998,2T4z 7 15,42,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,43,Frederik,Viberg Christiansen,DEN,2001,1T3z 4 10,43,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,44,Palmer,Larsen,USA,1995,1T3z 6 11,44,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,45,Carmel,Raz romeo,ISR,2000,1T2z 4 5,45,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,46,Christopher,Cosser,RSA,2000,1T2z 8 7,46,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,47,Ludovico,Fossali,ITA,1997,1T1z 7 4,47,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,48,Ram,Levin,ISR,1998,0T3z 0 4,48,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,49,Stefan,Fellner,USA,2001,0T3z 0 13,49,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,50,Theis Lindegren,Elfenbein,DEN,1997,0T2z 0 8,50,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,51,Carlos,Granja,ECU,1999,0T1z 0 3,51,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,52,Nickolaie,RIVADENEIRA ,ECU,2001,0T1z 0 8,52,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,53,Paolo ,Rivadeneira,ECU,2004,0T1z 0 16,53,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,54,Tomas,Chicaiza,ECU,2005,0T0z 0 0,54,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Men,,Adam,Ondra,CZE,1993,DNS,,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,1,Natalia,Grossman,USA,2001,5T5z 7 6,3,2T3z 8 3,6,,,,,4T4z 4 4,1
+Salt Lake City,USA,2021,BS,WC,boulder,Women,2,Janja,Garnbret,SLO,1999,5T5z 6 5,1,3T4z 5 8,1,,,,,4T4z 6 6,2
+Salt Lake City,USA,2021,BS,WC,boulder,Women,3,Brooke,Raboutou,USA,2001,4T4z 6 4,8,2T3z 5 6,4,,,,,3T4z 5 8,3
+Salt Lake City,USA,2021,BS,WC,boulder,Women,4,Oriane,Bertone,FRA,2005,3T5z 6 12,17,2T4z 8 6,3,,,,,3T3z 9 5,4
+Salt Lake City,USA,2021,BS,WC,boulder,Women,5,Stasa,Gejo,SRB,1997,4T4z 10 8,11,2T3z 5 6,5,,,,,3T3z 11 10,5
+Salt Lake City,USA,2021,BS,WC,boulder,Women,6,Miho,Nonaka,JPN,1997,5T5z 6 6,2,2T4z 7 11,2,,,,,2T4z 5 9,6
+Salt Lake City,USA,2021,BS,WC,boulder,Women,7,Katja,Debevec,SLO,1995,4T4z 11 8,12,1T4z 3 10,7,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,8,Kyra,Condie,USA,1996,4T4z 9 8,10,1T4z 11 11,8,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,9,Futaba,Ito,JPN,2002,5T5z 14 13,4,1T3z 1 7,9,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,10,Fanny,Gibert,FRA,1993,4T5z 14 15,7,1T3z 3 6,10,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,11,Afra,Hönig,GER,1995,4T4z 11 8,12,1T3z 4 7,11,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,12,Petra,Klingler,SUI,1992,4T4z 11 9,14,1T3z 5 5,12,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,13,Camilla,Moroni,ITA,2001,4T5z 13 16,6,1T3z 6 10,13,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,14,Mao,Nakamura,JPN,2000,3T4z 8 9,19,1T2z 3 2,14,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,15,Hannah,Meul,GER,2001,3T4z 6 6,18,0T3z 0 10,15,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,16,Kylie,Cullen,USA,2004,4T4z 13 8,15,0T2z 0 6,16,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,17,Vita,Lukan,SLO,2000,4T4z 16 14,16,0T2z 0 6,17,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,18,Akiyo,Noguchi,JPN,1989,4T5z 11 15,5,0T2z 0 11,18,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,19,Ryu,NAKAGAWA,JPN,2004,4T4z 6 4,8,0T2z 0 13,19,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,20,Franziska,Sterrer,AUT,1998,3T4z 8 14,20,0T0z 0 0,20,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,21,Lucia,Dörffel,GER,2000,3T4z 14 14,21,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,22,Ayala,Kerem,ISR,2001,3T4z 16 17,22,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,23,Giorgia,Tesio,ITA,2000,3T3z 7 5,23,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,24,Alma,Bestvater,GER,1996,2T4z 3 13,24,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,25,Maya,Madere,USA,1999,2T4z 3 15,25,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,26,Chloe,Caulier,BEL,1996,2T4z 5 9,26,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,27,Mailys,Piazzalunga,FRA,2001,2T4z 5 11,27,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,28,Sienna,Kopf,USA,2002,2T4z 6 14,28,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,29,Allison,Vest,CAN,1995,2T4z 7 12,29,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,30,Megan,Lynch,USA,1998,2T4z 7 21,30,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,31,Laura,Rogora,ITA,2001,2T4z 9 17,31,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,32,Miku,ISHII,JPN,2000,2T3z 5 3,32,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,33,Holly,Toothill,GBR,2001,2T3z 6 6,33,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,34,Johanna,Färber,AUT,1998,2T2z 3 3,34,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,35,Emily,Phillips,GBR,2002,1T4z 1 12,35,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,36,Thea,Wulff,USA,2002,1T4z 1 15,36,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,37,Hannah,Slaney,GBR,1999,1T3z 1 10,37,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,38,GENEVIEVE,Dennis,USA,2004,1T3z 1 13,38,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,39,Jennifer,Wood,GBR,1994,1T3z 2 8,39,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,40,Campbell,Sarinopoulos,USA,2004,1T2z 1 9,40,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,41,Katrine,Vandet Salling,DEN,1994,0T4z 0 8,41,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,42,Leonie,Lochner,GER,2000,0T3z 0 9,42,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,43,Alejandra,Contreras,CHI,2000,0T2z 0 9,43,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,44,Naama,Yohai,ISR,2000,0T2z 0 12,44,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,45,Molly,Thompson-Smith,GBR,1997,0T1z 0 1,45,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,46,Elizabeth,Sepulveda,PUR,2002,0T1z 0 2,46,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,47,Erin,Sterkenburg,RSA,2003,0T1z 0 3,47,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,48,Anouck,Jaubert,FRA,1994,0T1z 0 4,48,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,49,Kathrine Elsig,Jensen,DEN,1996,0T1z 0 5,49,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,50,Natalia,Kalucka,POL,2001,0T0z 0 0,50,,,,,,,,
+Salt Lake City,USA,2021,BS,WC,boulder,Women,,Yael,Taub,ISR,1996,DNS,,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,1,KIROMAL,KATIBIN,INA,2000,5.42,2,,,5.45,5.59,5.49,,5.64,1
+Salt Lake City,USA,2022,BS,WC,speed,Men,2,Noah,Bratschi,USA,2000,5.769,8,,,5.87,5.73,5.64,,FALL,2
+Salt Lake City,USA,2022,BS,WC,speed,Men,3,VEDDRIQ,LEONARDO,INA,1997,5.687,5,,,5.48,5.6,FALL,5.59,,3
+Salt Lake City,USA,2022,BS,WC,speed,Men,4,Ludovico,Fossali,ITA,1997,5.7,6,,,5.79,6.5,FALL,FALL,,4
+Salt Lake City,USA,2022,BS,WC,speed,Men,5,John,Brosler,USA,1997,5.20 (PaR),1,,,5.89,6.27,,,,5
+Salt Lake City,USA,2022,BS,WC,speed,Men,6,Amir,Maimuratov,KAZ,1995,5.67,3,,,5.87,7.03,,,,6
+Salt Lake City,USA,2022,BS,WC,speed,Men,7,Carlos,Granja,ECU,1999,5.762,7,,,6.1,5.73,,,,7
+Salt Lake City,USA,2022,BS,WC,speed,Men,8,Samuel,Watson,USA,2006,6.03,13,,,5.81,FALL,,,,8
+Salt Lake City,USA,2022,BS,WC,speed,Men,9,Erik,Noya Cardona,ESP,1994,5.685,4,,,7.69,,,,,9
+Salt Lake City,USA,2022,BS,WC,speed,Men,10,Marcin,Dzienski,POL,1993,5.78,9,,,6.69,,,,,10
+Salt Lake City,USA,2022,BS,WC,speed,Men,11,Guillaume,Moro,FRA,1994,5.79,10,,,9.4,,,,,11
+Salt Lake City,USA,2022,BS,WC,speed,Men,12,Merritt,Ernsberger,USA,1999,5.89,11,,,FALL,,,,,12
+Salt Lake City,USA,2022,BS,WC,speed,Men,13,Pierre,Rebreyend,FRA,1997,5.92,12,,,5.93,,,,,13
+Salt Lake City,USA,2022,BS,WC,speed,Men,14,Ethan,Pitcher,CAN,2001,6.063,14,,,8.5,,,,,14
+Salt Lake City,USA,2022,BS,WC,speed,Men,15,Gian Luca,Zodda,ITA,1999,6.067,15,,,6.91,,,,,15
+Salt Lake City,USA,2022,BS,WC,speed,Men,16,Quinn,O'Francia,USA,2004,6.09,16,,,6.26,,,,,16
+Salt Lake City,USA,2022,BS,WC,speed,Men,17,Joe,Goodacre,USA,2001,6.1,17,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,18,Yudai,Ikeda,JPN,1998,6.12,18,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,19,Tobias,Plangger,AUT,2001,6.15,19,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,20,Lukas,Knapp,AUT,1997,6.16,20,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,21,Nickolaie,RIVADENEIRA ,ECU,2001,6.3,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,22,Linus,Bader,GER,2002,6.39,22,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,23,Sebastian,Lucke,GER,2002,6.43,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,24,Ayumu,MITA,JPN,2005,6.47,24,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,25,Shuto,FUJINO,JPN,2004,6.59,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,26,Akihisa,KAJI,JPN,2002,6.71,26,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,27,Zach,Hammer,USA,2006,6.79,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,28,Oliver,Kuang,USA,2004,6.81,28,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,29,Darren,Skolnik,USA,2002,6.82,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,30,Hajime,Takeda,JPN,2002,6.85,30,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,31,Richard,Li,USA,2006,7.43,31,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,32,Calrin,Curtis,RSA,1993,7.79,32,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,33,Silas,Chang,USA,2005,8.21,33,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,34,Micah,Liss,USA,2003,FALL,34,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Men,35,ARDCH,INTRACHUPONGSE,THA,2004,FALSE START,35,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,1,Aleksandra,Miroslaw,POL,1994,6.89,1,,,7.08,7.06,8.96,,6.93,1
+Salt Lake City,USA,2022,BS,WC,speed,Women,2,Aleksandra,Kalucka,POL,2001,7.24,2,,,7.47,7.51,7.34,,7.83,2
+Salt Lake City,USA,2022,BS,WC,speed,Women,3,Natalia,Kalucka,POL,2001,7.47,5,,,7.82,7.67,FALL,7.52,,3
+Salt Lake City,USA,2022,BS,WC,speed,Women,4,Emma,Hunt,USA,2003,7.29,3,,,8.41,7.67,7.42,7.58,,4
+Salt Lake City,USA,2022,BS,WC,speed,Women,5,Aurelia,Sarisson,FRA,1997,7.45,4,,,7.51,12.26,,,,5
+Salt Lake City,USA,2022,BS,WC,speed,Women,6,Patrycja,Chudziak,POL,1997,7.67,6,,,7.96,8.87,,,,6
+Salt Lake City,USA,2022,BS,WC,speed,Women,7,Beatrice,Colli,ITA,2004,7.89,7,,,7.7,FALL,,,,7
+Salt Lake City,USA,2022,BS,WC,speed,Women,8,Andrea,Rojas,ECU,1995,8.03,9,,,9,8.03,,,,8
+Salt Lake City,USA,2022,BS,WC,speed,Women,9,Franziska,Ritter,GER,2003,7.9,8,,,FALL,,,,,9
+Salt Lake City,USA,2022,BS,WC,speed,Women,10,Capucine,Viglione,FRA,2002,8.07,10,,,9.37,,,,,10
+Salt Lake City,USA,2022,BS,WC,speed,Women,11,Giulia,Randi ,ITA,2002,8.12,11,,,8.13,,,,,11
+Salt Lake City,USA,2022,BS,WC,speed,Women,12,Victoire,Andrier,FRA,1996,8.2,12,,,8.38,,,,,12
+Salt Lake City,USA,2022,BS,WC,speed,Women,13,Nuria,Brockfeld,GER,2004,8.4,13,,,8.22,,,,,13
+Salt Lake City,USA,2022,BS,WC,speed,Women,14,Tetiana,Kolkotina,UKR,1992,8.55,14,,,8.64,,,,,14
+Salt Lake City,USA,2022,BS,WC,speed,Women,15,Piper,Kelly,USA,1999,8.663,15,,,9.36,,,,,15
+Salt Lake City,USA,2022,BS,WC,speed,Women,16,Karin,HAYASHI,JPN,2005,8.668,16,,,8.98,,,,,16
+Salt Lake City,USA,2022,BS,WC,speed,Women,17,Fumika,KAWAKAMI,JPN,2006,8.78,17,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,18,Anna,Brozek,POL,1995,8.81,18,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,19,Callie,Close,USA,2004,8.94,19,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,20,María,Laborda Sagaste,ESP,2004,9.04,20,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,21,Sophia,Curcio,USA,2006,9.4,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,22,Olivia,Ma,USA,2005,9.48,22,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,23,Valeria,Macias Ferreira,MEX,2001,10.04,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,24,Alejandra,Contreras,CHI,2000,10.1,24,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,25,Isabel,Gifford,USA,1999,10.76,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,26,Arantza,Fernández Gutierrez,MEX,2002,10.99,26,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,27,Grace,Crowley,AUS,2003,11.48,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,28,Liberty,Runnels,USA,2006,13.43,28,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,speed,Women,29,María Fernanda,Hidalgo Amezquita,MEX,2001,FALL,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,1,Mejdi,Schalck,FRA,2004,4T5z 11 11,9,2T3z 2 3,6,,,,,4T4z 9 6,1
+Salt Lake City,USA,2022,BS,WC,boulder,Men,2,Yoshiyuki,Ogata,JPN,1998,5T5z 15 7,9,3T4z 8 8,3,,,,,4T4z 11 10,2
+Salt Lake City,USA,2022,BS,WC,boulder,Men,3,Rei,Kawamata,JPN,2003,4T4z 5 5,11,2T4z 11 8,5,,,,,3T4z 14 12,3
+Salt Lake City,USA,2022,BS,WC,boulder,Men,4,Nicolai,Uznik,AUT,2000,5T5z 9 6,3,2T4z 3 12,4,,,,,2T3z 8 10,4
+Salt Lake City,USA,2022,BS,WC,boulder,Men,5,Yannick,Flohé,GER,1999,5T5z 9 7,1,3T4z 7 13,2,,,,,1T4z 1 10,5
+Salt Lake City,USA,2022,BS,WC,boulder,Men,6,Jakob,Schubert,AUT,1990,4T5z 10 9,15,4T4z 7 5,1,,,,,1T2z 1 6,6
+Salt Lake City,USA,2022,BS,WC,boulder,Men,7,Tomoa,Narasaki,JPN,1996,5T5z 8 7,1,2T3z 3 4,7,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,8,Anze,Peharc,SLO,1997,3T5z 4 6,15,2T3z 5 6,8,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,9,Sean,Bailey,USA,1996,5T5z 10 6,3,2T2z 4 3,9,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,10,Ross,Fulkerson,USA,2001,4T5z 7 7,13,1T3z 1 4,10,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,11,Alberto,Ginés López,ESP,2002,5T5z 10 10,5,1T3z 1 8,11,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,12,Keita,Dohi,JPN,2000,3T5z 4 5,19,1T3z 2 5,12,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,13,Maximillian,Milne,GBR,2000,5T5z 9 9,5,1T3z 3 5,13,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,14,Kokoro,Fujii,JPN,1992,4T5z 6 5,7,1T2z 1 8,14,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,15,Guy,McNamee,CAN,2002,3T5z 4 6,15,1T2z 2 8,15,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,16,Max,Kleesattel,GER,1998,3T5z 3 5,18,0T3z 0 11,16,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,17,Hamish,McArthur,GBR,2002,3T5z 4 8,19,0T2z 0 4,17,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,18,Simon,Hibbeler,USA,1998,3T5z 3 8,13,0T2z 0 6,18,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,19,Alex,Khazanov,ISR,1995,5T5z 10 8,7,0T2z 0 8,19,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,20,Charles,Barron,USA,1998,4T5z 5 6,11,0T1z 0 4,20,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,21,Tomoaki,Takata,JPN,1995,3T5z 4 12,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,21,Colin,Duffy,USA,2003,3T5z 4 6,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,23,Yotam,Ben reuven,ISR,2001,3T5z 4 7,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,23,Ellis,Ernsberger,USA,2003,3T5z 6 7,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,25,Paul,Jenft,FRA,2003,3T5z 6 9,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,25,Zan,Lovenjak Sudar,SLO,1998,3T5z 5 9,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,27,Alex,Waterhouse,GBR,1997,3T5z 6 9,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,27,Kento,YAMAGUCHI,JPN,2002,3T5z 6 10,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,29,Yuji,Inoue,JPN,1995,3T5z 7 8,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,29,Sascha,Lehmann,SUI,1998,3T4z 4 6,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,29,Benjamin,Hanna,USA,1998,3T5z 7 8,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,32,Elias,Arriagada Krüger,GER,2000,3T4z 8 8,32,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,33,Gregor,Vezonik,SLO,1995,2T5z 6 5,33,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,33,Victor,Baudrand,CAN,2003,3T5z 7 13,33,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,35,Nimrod,Marcus,ISR,1999,3T5z 8 9,35,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,35,Michael,Piccolruaz,ITA,1995,2T4z 2 6,35,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,37,William,Ridal,GBR,1997,3T5z 8 12,37,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,37,Lucas,Uchida,CAN,1998,2T4z 3 5,37,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,39,Christoph,Schweiger,GER,2001,3T5z 9 13,39,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,39,Sean,McColl,CAN,1987,2T4z 5 8,39,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,41,Nathan,Phillips,GBR,1994,2T5z 3 9,41,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,41,Palmer,Larsen,USA,1995,2T4z 6 9,41,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,43,Satone,YOSHIDA,JPN,2004,2T5z 4 10,43,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,43,Joe,Goodacre,USA,2001,2T4z 7 10,43,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,45,Oscar,Baudrand,CAN,2005,2T4z 8 16,45,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,45,Luke,GOH WEN BIN,SGP,2002,2T5z 4 17,45,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,47,Carmel,Raz romeo,ISR,2000,1T5z 2 17,47,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,47,Nino,Grünenfelder,SUI,2001,1T5z 1 8,47,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,49,Zach,Galla,USA,2000,1T5z 2 7,49,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,49,Chua,Dennis,SGP,1991,1T4z 3 9,49,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,51,Nils,Favre,SUI,1991,1T4z 2 4,51,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,51,Benjamin,Vargas,CHI,1999,1T3z 3 6,51,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,53,Christopher,Cosser,RSA,2000,1T3z 4 5,53,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,53,ARDCH,INTRACHUPONGSE,THA,2004,1T3z 2 10,53,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,55,Julien,Clémence,SUI,2001,1T3z 5 12,55,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,55,Rodrigo,Iasi Hanada,BRA,2002,1T3z 7 17,55,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,57,Michael,O'Neill,IRL,2000,0T4z 0 10,57,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,57,Ciarán,Scanlon,IRL,1995,1T1z 2 2,57,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,59,Lasse,von Freier,GER,2002,0T4z 0 14,59,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,59,Calrin,Curtis,RSA,1993,0T5z 0 12,59,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,61,Felipe ,Ho Foganholo,BRA,1999,0T5z 0 18,61,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,61,Roman,Batsenko,UKR,1995,0T3z 0 8,61,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,63,Mateus,Rodrigues Bellotto,BRA,2003,0T2z 0 8,63,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,63,Jesse,Grupper,USA,1997,0T3z 0 6,63,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,65,Lucas,Pedroza Diaz de León,MEX,2000,0T1z 0 3,65,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,65,Ronny,Escobar,CHI,1997,0T2z 0 9,65,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,67,José Alejandro,Sauceda Rodríguez,MEX,1997,0T1z 0 1,67,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,67,Pedro ,Avelar,BRA,2000,0T1z 0 4,67,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Men,69,Franz Josef,Weber,MEX,1989,0T0z 0 0,69,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,1,Natalia,Grossman,USA,2001,5T5z 11 9,1,3T4z 7 7,3,,,,,4T4z 9 9,1
+Salt Lake City,USA,2022,BS,WC,boulder,Women,2,Brooke,Raboutou,USA,2001,4T5z 7 9,7,3T4z 6 7,1,,,,,3T4z 5 14,2
+Salt Lake City,USA,2022,BS,WC,boulder,Women,3,Miho,Nonaka,JPN,1997,4T5z 6 6,3,2T4z 2 10,6,,,,,3T4z 9 18,3
+Salt Lake City,USA,2022,BS,WC,boulder,Women,4,Jessica,Pilz,AUT,1996,4T5z 10 10,15,3T4z 9 9,4,,,,,3T4z 16 19,4
+Salt Lake City,USA,2022,BS,WC,boulder,Women,5,Franziska,Sterrer,AUT,1998,5T5z 19 16,1,3T4z 6 7,1,,,,,1T3z 1 7,5
+Salt Lake City,USA,2022,BS,WC,boulder,Women,6,Camilla,Moroni,ITA,2001,4T5z 7 9,5,3T4z 15 15,5,,,,,1T3z 2 21,6
+Salt Lake City,USA,2022,BS,WC,boulder,Women,7,Oriane,Bertone,FRA,2005,4T5z 5 8,3,2T4z 4 9,7,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,8,Stasa,Gejo,SRB,1997,4T5z 9 7,9,2T4z 5 10,8,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,9,Futaba,Ito,JPN,2002,4T5z 9 10,11,2T3z 4 4,9,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,10,Alannah,Yip,CAN,1993,4T5z 9 11,13,1T4z 3 9,10,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,11,Kylie,Cullen,USA,2004,4T5z 8 7,7,1T4z 5 11,11,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,12,Giorgia,Tesio,ITA,2000,3T5z 10 13,19,1T4z 7 10,12,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,13,Hannah,Meul,GER,2001,4T5z 15 14,15,1T3z 1 3,13,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,14,Ievgeniia,Kazbekova,UKR,1996,3T5z 7 7,19,1T3z 4 11,14,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,15,Nanako,Kura,JPN,2000,4T5z 13 8,13,1T3z 5 7,15,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,16,Cloe,Coscoy,USA,2001,4T5z 7 6,5,1T3z 6 8,16,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,17,Adriene,Clark,USA,2004,3T5z 7 8,17,1T2z 3 2,17,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,18,Afra,Hönig,GER,1995,4T5z 9 10,11,0T3z 0 5,18,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,19,Laura,Rogora,ITA,2001,3T5z 3 13,17,0T2z 0 3,19,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,20,Johanna,Färber,AUT,1998,4T5z 8 8,9,DNS,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,21,Ayala,Kerem,ISR,2001,3T4z 11 9,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,21,Mia,AOYAGI,JPN,2003,3T5z 16 12,21,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,23,Sofya,Yokoyama,SUI,1998,2T5z 2 23,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,23,Sienna,Kopf,USA,2002,3T4z 4 8,23,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,25,Petra,Klingler,SUI,1992,2T5z 5 22,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,25,Quinn,Mason,USA,2003,3T3z 5 3,25,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,27,Katja,Debevec,SLO,1995,2T5z 2 5,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,27,Roxana,Wienand,GER,2000,2T5z 6 14,27,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,29,Holly,Toothill,GBR,2001,2T4z 3 8,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,29,Leonie,Lochner,GER,2000,2T5z 12 20,29,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,31,Hannah,Slaney,GBR,1999,2T4z 6 10,31,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,31,Babette,Roy,CAN,2002,2T4z 2 5,31,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,33,Tara,Hayes,GBR,1997,2T3z 4 3,33,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,33,Indiana,Chapman,CAN,2003,2T2z 4 3,33,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,35,Aida,Torres Illamola,ESP,2002,1T3z 1 5,35,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,35,Emily,Herdic,USA,2002,1T5z 7 23,35,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,37,Maya,Madere,USA,1999,1T4z 1 13,37,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,37,Vanessa Si Yinn,Teng,SGP,1996,1T3z 3 12,37,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,39,Anon,Matsufuji,JPN,2003,1T4z 3 11,39,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,39,Evangelina,Briggs,CAN,2006,1T2z 2 5,39,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,41,Melina,Costanza,USA,1999,1T2z 5 5,41,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,41,YUETONG,Zhang,CHN,2003,1T4z 6 10,41,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,43,Campbell,Sarinopoulos,USA,2004,1T3z 1 11,43,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,43,Valentina,Aguado,ARG,2001,1T1z 3 1,43,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,45,Jennifer,Wood,GBR,1994,0T3z 0 10,45,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,45,Hana,KOIKE,JPN,2005,0T3z 0 9,45,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,47,Arantza,Fernández Gutierrez,MEX,2002,0T2z 0 6,47,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,47,Emi,Takashiba,CAN,2004,0T3z 0 11,47,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,49,Sandra,Hopfensitz,GER,2003,0T1z 0 1,49,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,49,Valeria,Macias Ferreira,MEX,2001,0T1z 0 1,49,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,51,Alejandra,Contreras,CHI,2000,0T1z 0 2,51,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,51,Tan,Shi Hui,SGP,1992,0T1z 0 2,51,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,53,Zoe,GARCIA MOLINA,ARG,2004,0T1z 0 6,53,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,53,María Fernanda,González Rámirez,MEX,2001,0T1z 0 3,53,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,55,Elizabeth,Sepulveda,PUR,2002,0T1z 0 5,55,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,55,Grace,Crowley,AUS,2003,0T0z 0 0,55,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,57,María Fernanda,Hidalgo Amezquita,MEX,2001,0T0z 0 0,57,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,57,Siobhan,Dobie,AUS,1997,0T0z 0 0,57,,,,,,,,
+Salt Lake City,USA,2022,BS,WC,boulder,Women,,Valeriia,Koryttseva,UKR,2002,DNS,,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,1,VEDDRIQ,LEONARDO,INA,1997,5.28,2,,,5.51,5.45,5.35,,6.33,1
+Salt Lake City2,USA,2022,BS,WC,speed,Men,2,Tobias,Plangger,AUT,2001,5.826,13,,,5.64,5.59,WILDCARD,,FALL,2
+Salt Lake City2,USA,2022,BS,WC,speed,Men,3,Ludovico,Fossali,ITA,1997,5.68,6,,,5.53,5.54,7.84,5.49,,3
+Salt Lake City2,USA,2022,BS,WC,speed,Men,4,Marcin,Dzienski,POL,1993,5.732,8,,,5.68,5.59,FALSE START,5.56,,4
+Salt Lake City2,USA,2022,BS,WC,speed,Men,5,KIROMAL,KATIBIN,INA,2000,5.10 (WR) (AsR),1,,,5.19,FALL,,,,5
+Salt Lake City2,USA,2022,BS,WC,speed,Men,6,John,Brosler,USA,1997,5.57,3,,,5.45,6.74,,,,6
+Salt Lake City2,USA,2022,BS,WC,speed,Men,7,Erik,Noya Cardona,ESP,1994,5.67,5,,,5.68,5.66,,,,7
+Salt Lake City2,USA,2022,BS,WC,speed,Men,8,Samuel,Watson,USA,2006,5.739,10,,,5.51,6.1,,,,8
+Salt Lake City2,USA,2022,BS,WC,speed,Men,9,Euncheol,SHIN,KOR,1999,5.58,4,,,5.68,,,,,9
+Salt Lake City2,USA,2022,BS,WC,speed,Men,10,Yongjun,JUNG,KOR,2003,5.71,7,,,5.84,,,,,10
+Salt Lake City2,USA,2022,BS,WC,speed,Men,11,Seungbeom,LEE,KOR,1999,5.737,9,,,5.7,,,,,11
+Salt Lake City2,USA,2022,BS,WC,speed,Men,12,Guillaume,Moro,FRA,1994,5.74,11,,,5.61,,,,,12
+Salt Lake City2,USA,2022,BS,WC,speed,Men,13,Amir,Maimuratov,KAZ,1995,5.76,12,,,8.41,,,,,13
+Salt Lake City2,USA,2022,BS,WC,speed,Men,14,Pierre,Rebreyend,FRA,1997,5.827,14,,,5.66,,,,,14
+Salt Lake City2,USA,2022,BS,WC,speed,Men,15,Ethan,Pitcher,CAN,2001,5.83,15,,,5.9,,,,,15
+Salt Lake City2,USA,2022,BS,WC,speed,Men,16,Sebastian,Lucke,GER,2002,5.87,16,,,FALL,,,,,16
+Salt Lake City2,USA,2022,BS,WC,speed,Men,17,Carlos,Granja,ECU,1999,5.89,17,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,18,Shuto,FUJINO,JPN,2004,5.9,18,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,19,Gian Luca,Zodda,ITA,1999,5.92,19,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,20,Merritt,Ernsberger,USA,1999,6,20,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,21,Yudai,Ikeda,JPN,1998,6.125,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,22,Isaac,Estevez ,ECU,1992,6.129,22,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,23,Yann,LE CLERCQ DE LANNOY,FRA,1999,6.13,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,24,Nickolaie,RIVADENEIRA ,ECU,2001,6.25,24,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,25,MINSOO,PARK,KOR,1998,6.28,25,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,26,Taeung,MOON,KOR,2001,6.3,26,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,27,Micah,Liss,USA,2003,6.32,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,28,Joe,Goodacre,USA,2001,6.33,28,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,29,Linus,Bader,GER,2002,6.36,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,30,Dylan,Le,CAN,2005,6.461,30,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,31,Paolo ,Rivadeneira,ECU,2004,6.467,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,32,Ayumu,MITA,JPN,2005,6.5,32,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,33,Akihisa,KAJI,JPN,2002,6.54,33,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,34,Quinn,O'Francia,USA,2004,6.72,34,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,35,Darren,Skolnik,USA,2002,7.3,35,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,36,Lukas,Knapp,AUT,1997,7.43,36,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,37,Calrin,Curtis,RSA,1993,7.97,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,38,Silas,Chang,USA,2005,8.01,38,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,39,ARDCH,INTRACHUPONGSE,THA,2004,8.07,39,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,40,Hajime,Takeda,JPN,2002,8.78,40,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,41,Oliver,Kuang,USA,2004,9.89,41,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,42,Zach,Hammer,USA,2006,10.11,42,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,43,Richard,Li,USA,2006,15.4,43,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,44,Terence,SARAMANDIF,MRI,2002,34.54,44,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,45,Leander,Carmanns,GER,2004,FALSE START,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Men,45,Noah,Bratschi,USA,2000,FALSE START,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,1,Aleksandra,Miroslaw,POL,1994,6.53 (WR) (ER),1,,,6.9,6.69,6.73,,6.54,1
+Salt Lake City2,USA,2022,BS,WC,speed,Women,2,Emma,Hunt,USA,2003,7.05 (PAR),3,,,7.54,7.18,7.18,,FALL,2
+Salt Lake City2,USA,2022,BS,WC,speed,Women,3,Aleksandra,Kalucka,POL,2001,7.04,2,,,7.09,7.44,8.91,7.96,,3
+Salt Lake City2,USA,2022,BS,WC,speed,Women,4,Natalia,Kalucka,POL,2001,7.16,4,,,7.49,7.73,7.51,FALL,,4
+Salt Lake City2,USA,2022,BS,WC,speed,Women,5,Giulia,Randi ,ITA,2002,7.58,5,,,7.64,7.77,,,,5
+Salt Lake City2,USA,2022,BS,WC,speed,Women,6,Beatrice,Colli,ITA,2004,7.6,6,,,7.54,7.4,,,,6
+Salt Lake City2,USA,2022,BS,WC,speed,Women,7,Capucine,Viglione,FRA,2002,7.78,9,,,7.48,8.48,,,,7
+Salt Lake City2,USA,2022,BS,WC,speed,Women,8,Franziska,Ritter,GER,2003,7.86,10,,,7.4,7.82,,,,8
+Salt Lake City2,USA,2022,BS,WC,speed,Women,9,Patrycja,Chudziak,POL,1997,7.66,7,,,7.65,,,,,9
+Salt Lake City2,USA,2022,BS,WC,speed,Women,10,Karin,HAYASHI,JPN,2005,7.7,8,,,8.31,,,,,10
+Salt Lake City2,USA,2022,BS,WC,speed,Women,11,Andrea,Rojas,ECU,1995,7.93,11,,,7.77,,,,,11
+Salt Lake City2,USA,2022,BS,WC,speed,Women,12,Nuria,Brockfeld,GER,2004,8.1,12,,,7.98,,,,,12
+Salt Lake City2,USA,2022,BS,WC,speed,Women,13,Piper,Kelly,USA,1999,8.41,13,,,11.45,,,,,13
+Salt Lake City2,USA,2022,BS,WC,speed,Women,14,Callie,Close,USA,2004,8.44,14,,,8.24,,,,,14
+Salt Lake City2,USA,2022,BS,WC,speed,Women,15,Anna,Brozek,POL,1995,8.52,15,,,8.01,,,,,15
+Salt Lake City2,USA,2022,BS,WC,speed,Women,16,Tetiana,Kolkotina,UKR,1992,8.56,16,,,10.39,,,,,16
+Salt Lake City2,USA,2022,BS,WC,speed,Women,17,Fumika,KAWAKAMI,JPN,2006,8.74,17,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,18,Youjin,CHA,KOR,1999,8.75,18,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,19,María,Laborda Sagaste,ESP,2004,9.08,19,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,20,Alejandra,Contreras,CHI,2000,9.21,20,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,21,Sophia,Curcio,USA,2006,9.34,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,22,Hanareum,SUNG,KOR,2005,9.38,22,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,23,Valeria,Macias Ferreira,MEX,2001,9.46,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,24,Isabel,Gifford,USA,1999,10.04,24,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,25,Addyson,Tallent,USA,2006,10.22,25,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,26,Arantza,Fernández Gutierrez,MEX,2002,10.57,26,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,27,Victoire,Andrier,FRA,1996,10.83,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,28,Liberty,Runnels,USA,2006,12.55,28,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,29,Grace,Crowley,AUS,2003,14.53,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,30,María Fernanda,Hidalgo Amezquita,MEX,2001,14.8,30,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,31,Doriane,SARAMANDIF,MRI,2005,28.1,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,speed,Women,32,Aurelia,Sarisson,FRA,1997,FALSE START,32,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,1,Yoshiyuki,Ogata,JPN,1998,4T4z 6 4,15,4T4z 8 8,2,,,,,4T4z 5 5,1
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,2,Anze,Peharc,SLO,1997,4T5z 6 6,13,4T4z 9 7,3,,,,,4T4z 5 5,2
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,3,Kokoro,Fujii,JPN,1992,4T5z 4 5,9,4T4z 7 7,1,,,,,4T4z 9 8,3
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,4,Jongwon,CHON,KOR,1996,5T5z 10 5,3,3T4z 7 8,6,,,,,3T4z 4 5,4
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,5,Rei,Kawamata,JPN,2003,5T5z 9 5,3,4T4z 10 9,5,,,,,3T3z 7 6,5
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,6,Ross,Fulkerson,USA,2001,4T5z 4 6,11,4T4z 9 9,4,,,,,2T2z 4 3,6
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,7,Yannick,Flohé,GER,1999,5T5z 9 5,3,3T4z 8 9,7,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,7,Jakob,Schubert,AUT,1990,4T5z 7 5,15,3T4z 8 9,7,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,9,Paul,Jenft,FRA,2003,3T4z 3 7,19,3T4z 9 10,9,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,10,Dohyun,LEE,KOR,2002,5T5z 9 7,1,3T4z 10 11,10,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,11,Zach,Galla,USA,2000,3T5z 8 8,17,3T3z 3 3,11,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,12,Maximillian,Milne,GBR,2000,5T5z 10 9,6,3T3z 4 3,12,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,13,Colin,Duffy,USA,2003,4T5z 7 6,17,2T4z 12 14,13,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,14,Nathan,Phillips,GBR,1994,3T5z 3 7,19,2T3z 2 3,14,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,15,Hamish,McArthur,GBR,2002,5T5z 11 9,7,2T3z 3 3,15,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,16,Sean,Bailey,USA,1996,5T5z 9 6,7,2T3z 4 3,16,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,17,Gregor,Vezonik,SLO,1995,4T5z 8 5,13,2T3z 7 8,17,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,18,Tomoaki,Takata,JPN,1995,4T5z 6 6,11,1T4z 5 11,18,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,19,Keita,Dohi,JPN,2000,5T5z 8 5,1,1T2z 3 2,19,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,20,Yuji,Inoue,JPN,1995,5T5z 12 7,9,1T1z 2 2,20,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,21,Mejdi,Schalck,FRA,2004,3T4z 7 5,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,21,Kento,YAMAGUCHI,JPN,2002,3T5z 4 5,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,23,Nimrod,Marcus,ISR,1999,3T5z 5 7,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,23,Michael,Piccolruaz,ITA,1995,2T4z 2 6,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,25,Zan,Lovenjak Sudar,SLO,1998,2T4z 4 5,25,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,25,Max,Kleesattel,GER,1998,3T5z 5 9,25,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,27,Nicolai,Uznik,AUT,2000,3T5z 5 12,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,27,Nino,Grünenfelder,SUI,2001,2T4z 4 7,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,29,Sascha,Lehmann,SUI,1998,2T3z 3 3,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,29,Benjamin,Hanna,USA,1998,3T4z 3 4,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,31,Satone,YOSHIDA,JPN,2004,3T4z 4 4,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,31,Oscar,Baudrand,CAN,2005,2T3z 3 4,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,33,William,Ridal,GBR,1997,2T3z 6 4,33,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,33,Christopher,Cosser,RSA,2000,2T5z 3 9,33,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,35,Victor,Baudrand,CAN,2003,1T5z 1 15,35,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,35,Guy,McNamee,CAN,2002,2T4z 4 5,35,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,37,Sean,McColl,CAN,1987,2T3z 3 3,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,37,Charles,Barron,USA,1998,1T4z 1 8,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,37,Jesse,Grupper,USA,1997,2T3z 3 3,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,40,Simon,Hibbeler,USA,1998,1T4z 1 11,40,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,41,Christoph,Schweiger,GER,2001,1T4z 2 4,41,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,41,Ciarán,Scanlon,IRL,1995,2T3z 3 4,41,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,43,Julien,Clémence,SUI,2001,1T4z 1 6,43,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,43,Benjamin,Vargas,CHI,1999,1T4z 5 7,43,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,45,Nils,Favre,SUI,1991,1T4z 1 7,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,45,Luke,GOH WEN BIN,SGP,2002,1T3z 1 4,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,45,Michael,O'Neill,IRL,2000,1T4z 1 7,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,45,Felipe ,Ho Foganholo,BRA,1999,1T4z 1 7,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,45,Luke,Muehring,USA,1998,1T3z 1 4,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,50,Alex,Waterhouse,GBR,1997,1T3z 2 3,50,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,51,Carmel,Raz romeo,ISR,2000,1T4z 3 9,51,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,51,ARDCH,INTRACHUPONGSE,THA,2004,1T2z 4 3,51,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,53,MINYOUNG,LEE,KOR,1999,1T3z 1 3,53,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,53,Alberto,Ginés López,ESP,2002,1T3z 1 3,53,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,53,DOHYEON,KIM,KOR,2005,0T4z 0 8,53,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,56,Yotam,Ben reuven,ISR,2001,0T3z 0 3,56,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,56,WONWOO,HAN,KOR,2003,0T3z 0 3,56,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,56,Ronny,Escobar,CHI,1997,0T3z 0 3,56,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,59,Joe,Goodacre,USA,2001,1T3z 1 4,59,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,60,Elias,Arriagada Krüger,GER,2000,1T3z 1 8,60,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,61,Chua,Dennis,SGP,1991,0T3z 0 4,61,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,61,Rodrigo,Iasi Hanada,BRA,2002,1T2z 1 2,61,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,63,Roman,Batsenko,UKR,1995,0T3z 0 5,63,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,63,Calrin,Curtis,RSA,1993,0T3z 0 9,63,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,65,Mateus,Rodrigues Bellotto,BRA,2003,0T3z 0 7,65,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,65,Franz Josef,Weber,MEX,1989,0T2z 0 3,65,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,67,Carlos,Granja,ECU,1999,0T3z 0 11,67,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,67,José Alejandro,Sauceda Rodríguez,MEX,1997,0T0z 0 0,67,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,67,Terence,SARAMANDIF,MRI,2002,0T0z 0 0,67,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,70,Jorge,Loredo Duran,MEX,1998,0T2z 0 7,70,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Men,71,Lucas,Pedroza Diaz de León,MEX,2000,0T2z 0 9,71,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,1,Natalia,Grossman,USA,2001,5T5z 8 8,3,3T4z 5 4,4,,,,,4T4z 10 4,1
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,2,Miho,Nonaka,JPN,1997,5T5z 11 10,1,4T4z 10 8,3,,,,,3T4z 5 5,2
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,3,Brooke,Raboutou,USA,2001,5T5z 14 14,8,4T4z 9 6,2,,,,,3T4z 6 4,3
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,4,Futaba,Ito,JPN,2002,5T5z 15 13,9,3T4z 8 6,6,,,,,3T4z 9 9,4
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,5,Chaehyun,SEO,KOR,2003,4T5z 7 9,9,3T4z 6 7,5,,,,,2T4z 2 8,5
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,6,Ayala,Kerem,ISR,2001,5T5z 12 11,3,4T4z 8 7,1,,,,,2T4z 3 8,6
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,7,Giorgia,Tesio,ITA,2000,4T4z 4 4,19,2T4z 3 14,7,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,8,Oriane,Bertone,FRA,2005,5T5z 8 8,3,2T4z 5 6,8,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,9,Holly,Toothill,GBR,2001,4T5z 7 8,13,2T4z 6 10,9,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,10,Nanako,Kura,JPN,2000,4T5z 9 16,17,2T3z 5 5,10,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,11,Stasa,Gejo,SRB,1997,4T5z 5 9,11,2T3z 7 8,11,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,12,Franziska,Sterrer,AUT,1998,5T5z 8 8,3,1T4z 3 13,12,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,13,Jessica,Pilz,AUT,1996,5T5z 13 11,7,1T4z 6 9,13,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,14,Afra,Hönig,GER,1995,5T5z 6 6,1,1T3z 2 6,14,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,15,Cloe,Coscoy,USA,2001,4T5z 7 9,15,1T3z 2 8,15,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,16,Kylie,Cullen,USA,2004,3T5z 3 5,15,1T3z 2 9,16,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,17,Camilla,Moroni,ITA,2001,4T4z 5 5,11,1T2z 6 11,17,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,18,YUETONG,Zhang,CHN,2003,3T5z 3 6,17,0T1z 0 3,18,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,19,Jennifer,Wood,GBR,1994,4T4z 10 9,13,0T1z 0 6,19,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,20,Gayeong,OH,KOR,2006,3T5z 5 9,19,0T0z 0 0,20,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,21,Petra,Klingler,SUI,1992,3T5z 7 7,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,21,Anon,Matsufuji,JPN,2003,4T4z 12 12,21,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,23,Katja,Debevec,SLO,1995,3T4z 3 7,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,23,Mia,AOYAGI,JPN,2003,3T4z 3 4,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,23,Roxana,Wienand,GER,2000,3T4z 3 4,23,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,26,Alannah,Yip,CAN,1993,3T4z 4 5,26,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,27,Ievgeniia,Kazbekova,UKR,1996,3T4z 3 8,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,27,Quinn,Mason,USA,2003,2T4z 3 7,27,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,29,Sofya,Yokoyama,SUI,1998,3T4z 4 4,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,29,Vanessa Si Yinn,Teng,SGP,1996,2T4z 3 9,29,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,31,Adriene,Clark,USA,2004,3T4z 4 5,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,31,Campbell,Sarinopoulos,USA,2004,2T3z 2 4,31,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,33,Hannah,Slaney,GBR,1999,3T4z 6 8,33,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,33,Tara,Hayes,GBR,1997,2T3z 4 3,33,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,35,Evangelina,Briggs,CAN,2006,3T4z 6 10,35,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,35,Ignacia,Mellado Quinteros,CHI,2002,2T3z 5 5,35,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,37,Maya,Madere,USA,1999,1T5z 1 12,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,37,Emily,Herdic,USA,2002,3T4z 14 14,37,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,39,Aida,Torres Illamola,ESP,2002,1T4z 1 12,39,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,39,Babette,Roy,CAN,2002,2T5z 2 10,39,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,41,Hana,KOIKE,JPN,2005,1T3z 1 6,41,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,41,Indiana,Chapman,CAN,2003,2T3z 2 5,41,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,43,Valentina,Aguado,ARG,2001,2T2z 3 2,43,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,43,Yejoo,SEO,KOR,2006,1T3z 1 10,43,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,45,Alejandra,Contreras,CHI,2000,1T2z 3 2,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,45,Tan,Shi Hui,SGP,1992,2T2z 4 3,45,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,47,Elizabeth,Sepulveda,PUR,2002,1T2z 6 7,47,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,47,Zoe,GARCIA MOLINA,ARG,2004,1T1z 6 5,47,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,49,Arantza,Fernández Gutierrez,MEX,2002,1T1z 3 3,49,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,49,Lauren,Mukheibir,RSA,2001,1T1z 9 6,49,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,51,Grace,Crowley,AUS,2003,0T1z 0 2,51,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,51,Siobhan,Dobie,AUS,1997,0T1z 0 3,51,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,53,Doriane,SARAMANDIF,MRI,2005,0T0z 0 0,53,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,,Leonie,Lochner,GER,2000,DNS,,,,,,,,,
+Salt Lake City2,USA,2022,BS,WC,boulder,Women,,Rebecca,Frangos,CAN,1997,DNS,,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,1,VEDDRIQ,LEONARDO,INA,1997,5.41,2,,,5.66,5.47,5.38,,6.96,1
+Seoul,KOR,2022,BS,WC,speed,Men,2,KIROMAL,KATIBIN,INA,2000,5.17 (WR) (AsR),1,,,5.51,5.26,5.29,,FALSE START,2
+Seoul,KOR,2022,BS,WC,speed,Men,3,RAHMAD,ADI MULYONO,INA,2000,5.48,3,,,8.32,5.56,5.54,5.58,,3
+Seoul,KOR,2022,BS,WC,speed,Men,4,Ludovico,Fossali,ITA,1997,5.887,12,,,5.61,5.64,FALL,FALL,,4
+Seoul,KOR,2022,BS,WC,speed,Men,5,ZAENAL,ARIPIN,INA,1992,5.74,6,,,6.06,FALL,,,,5
+Seoul,KOR,2022,BS,WC,speed,Men,6,Seungbeom,LEE,KOR,1999,5.76,7,,,5.76,5.76,,,,6
+Seoul,KOR,2022,BS,WC,speed,Men,7,Guillaume,Moro,FRA,1994,5.79,9,,,6.03,6.26,,,,7
+Seoul,KOR,2022,BS,WC,speed,Men,8,Tobias,Plangger,AUT,2001,5.889,13,,,6.37,5.69,,,,8
+Seoul,KOR,2022,BS,WC,speed,Men,9,Reza,Alipour Shenazandifard,IRI,1994,5.49,4,,,6.4,,,,,9
+Seoul,KOR,2022,BS,WC,speed,Men,10,ASPAR,ASPAR,INA,1992,5.7,5,,,5.71,,,,,10
+Seoul,KOR,2022,BS,WC,speed,Men,11,Erik,Noya Cardona,ESP,1994,5.78,8,,,FALL,,,,,11
+Seoul,KOR,2022,BS,WC,speed,Men,12,ALFIAN,MUHAMMAD FAJRI,INA,1997,5.8,10,,,5.79,,,,,12
+Seoul,KOR,2022,BS,WC,speed,Men,13,Yongjun,JUNG,KOR,2003,5.85,11,,,7.7,,,,,13
+Seoul,KOR,2022,BS,WC,speed,Men,14,RAHARJATI,NURSAMSA,INA,2001,5.93,14,,,8.39,,,,,14
+Seoul,KOR,2022,BS,WC,speed,Men,15,Pierre,Rebreyend,FRA,1997,5.94,15,,,FALL,,,,,15
+Seoul,KOR,2022,BS,WC,speed,Men,16,Samuel,Watson,USA,2006,5.97,16,,,6.64,,,,,16
+Seoul,KOR,2022,BS,WC,speed,Men,17,Leander,Carmanns,GER,2004,6.01,17,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,18,Joe,Goodacre,USA,2001,6.12,18,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,19,Yudai,Ikeda,JPN,1998,6.15,19,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,20,Ryo,OMASA,JPN,2002,6.17,20,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,21,Dylan,Le,CAN,2005,6.3,21,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,22,Lukas,Knapp,AUT,1997,6.33,22,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,23,Yann,LE CLERCQ DE LANNOY,FRA,1999,6.36,23,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,24,Minsu,KANG,KOR,2001,6.387,24,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,25,Noah,Bratschi,USA,2000,6.388,25,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,26,Quinn,O'Francia,USA,2004,6.45,26,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,27,Taeung,MOON,KOR,2001,6.53,27,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,28,Akihisa,KAJI,JPN,2002,6.72,28,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,29,Gian Luca,Zodda,ITA,1999,6.89,29,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,30,Euncheol,SHIN,KOR,1999,6.9,30,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,31,Hyeonu,SONG,KOR,2006,7.12,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,32,MINSOO,PARK,KOR,1998,7.84,32,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,33,Rishat,Khaibullin,KAZ,1995,8.17,33,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,34,Shuto,FUJINO,JPN,2004,8.55,34,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,35,SANGHYUN,CHO,KOR,2003,8.78,35,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,36,Linus,Bader,GER,2002,9.22,36,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,37,HARAM,JEON,KOR,2003,9.34,37,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,38,John,Brosler,USA,1997,FALL,38,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Men,38,JIHWAN,JU,KOR,2001,FALL,38,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,1,Aleksandra,Miroslaw,POL,1994,6.64 (WR) (ER),1,,,7.33,8.44,6.83,,6.72,1
+Seoul,KOR,2022,BS,WC,speed,Women,2,Emma,Hunt,USA,2003,7.99,11,,,7.22,7.99,7.44,,7.23,2
+Seoul,KOR,2022,BS,WC,speed,Women,3,Aleksandra,Kalucka,POL,2001,7.4,5,,,7.17,8.15,9.54,7.24,,3
+Seoul,KOR,2022,BS,WC,speed,Women,4,Franziska,Ritter,GER,2003,7.55,7,,,7.5,8.45,10.17,7.58,,4
+Seoul,KOR,2022,BS,WC,speed,Women,5,RAJIAH,SALLSABILLAH,INA,1999,7.26,3,,,7.47,FALL,,,,5
+Seoul,KOR,2022,BS,WC,speed,Women,6,Capucine,Viglione,FRA,2002,7.67,8,,,7.65,11.87,,,,6
+Seoul,KOR,2022,BS,WC,speed,Women,7,Jimin,JEONG,KOR,2004,8.12,13,,,8.15,8.17,,,,7
+Seoul,KOR,2022,BS,WC,speed,Women,8,Nuria,Brockfeld,GER,2004,8.2,15,,,8.06,10.86,,,,8
+Seoul,KOR,2022,BS,WC,speed,Women,9,DESAK,MADE RITA KUSUMA DEWI,INA,2001,7.15,2,,,9.91,,,,,9
+Seoul,KOR,2022,BS,WC,speed,Women,10,NURUL,IQAMAH,INA,1995,7.31,4,,,8.38,,,,,10
+Seoul,KOR,2022,BS,WC,speed,Women,11,Patrycja,Chudziak,POL,1997,7.51,6,,,7.47,,,,,11
+Seoul,KOR,2022,BS,WC,speed,Women,12,Beatrice,Colli,ITA,2004,7.8,9,,,7.79,,,,,12
+Seoul,KOR,2022,BS,WC,speed,Women,13,Natalia,Kalucka,POL,2001,7.83,10,,,9.02,,,,,13
+Seoul,KOR,2022,BS,WC,speed,Women,14,Aurelia,Sarisson,FRA,1997,8.05,12,,,7.23,,,,,14
+Seoul,KOR,2022,BS,WC,speed,Women,15,Alivany,Ver Khadijah,INA,2002,8.18,14,,,7.96,,,,,15
+Seoul,KOR,2022,BS,WC,speed,Women,16,Lison,Gautron,FRA,2002,8.23,16,,,8.4,,,,,16
+Seoul,KOR,2022,BS,WC,speed,Women,17,María,Laborda Sagaste,ESP,2004,8.47,17,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,18,Fumika,KAWAKAMI,JPN,2006,8.48,18,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,19,Ai,TAKEUCHI,JPN,2005,8.62,19,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,20,Karin,HAYASHI,JPN,2005,8.67,20,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,21,Andrea,Rojas,ECU,1995,8.78,21,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,22,Giulia,Randi ,ITA,2002,9.14,22,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,23,Heeju,NOH,KOR,2004,9.22,23,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,24,Callie,Close,USA,2004,9.24,24,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,25,SEOYEON,PARK,KOR,2002,9.3,25,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,26,Youjin,CHA,KOR,1999,9.39,26,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,27,Hanareum,SUNG,KOR,2005,9.44,27,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,28,Sophia,Curcio,USA,2006,9.45,28,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,29,NAWOO,CHOI,KOR,2002,9.86,29,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,30,HYEBIN,KIM,KOR,2003,10.06,30,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,31,YENA,PI,KOR,2002,10.72,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,32,Victoire,Andrier,FRA,1996,11.06,32,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,33,Dasom,YUN,KOR,2005,11.23,33,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,34,Grace,Crowley,AUS,2003,11.57,34,,,,,,,,
+Seoul,KOR,2022,BS,WC,speed,Women,35,Yejin,JUNG,KOR,2004,FALSE START,35,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,1,Kokoro,Fujii,JPN,1992,3T5z 9 9,1,3T3z 5 5,2,,,,,4T4z 11 4,1
+Seoul,KOR,2022,BS,WC,boulder,Men,2,Tomoa,Narasaki,JPN,1996,2T4z 2 11,10,3T4z 10 8,1,,,,,4T4z 12 8,2
+Seoul,KOR,2022,BS,WC,boulder,Men,3,Yoshiyuki,Ogata,JPN,1998,2T5z 3 8,7,2T4z 6 4,6,,,,,3T4z 6 7,3
+Seoul,KOR,2022,BS,WC,boulder,Men,4,Paul,Jenft,FRA,2003,3T5z 10 17,2,2T4z 4 6,4,,,,,2T4z 4 11,4
+Seoul,KOR,2022,BS,WC,boulder,Men,5,Meichi,Narasaki,JPN,1999,2T5z 4 9,8,2T4z 2 9,3,,,,,2T3z 3 6,5
+Seoul,KOR,2022,BS,WC,boulder,Men,6,Keita,Dohi,JPN,2000,3T4z 7 6,4,2T4z 5 9,5,,,,,1T4z 2 14,6
+Seoul,KOR,2022,BS,WC,boulder,Men,7,Mejdi,Schalck,FRA,2004,3T4z 4 5,3,2T3z 4 5,7,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,8,Maximillian,Milne,GBR,2000,2T3z 4 4,16,2T3z 4 5,8,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,9,Victor,Baudrand,CAN,2003,2T3z 9 10,19,2T3z 6 9,9,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,10,Dohyun,LEE,KOR,2002,2T4z 3 7,11,1T4z 1 8,10,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,11,Tomoaki,Takata,JPN,1995,2T4z 2 4,9,1T4z 4 9,11,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,12,Jongwon,CHON,KOR,1996,2T4z 3 11,12,1T3z 1 7,12,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,13,Gregor,Vezonik,SLO,1995,1T4z 1 11,20,1T3z 2 6,13,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,14,Nicolai,Uznik,AUT,2000,2T3z 5 8,17,1T3z 2 8,14,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,15,Yuji,Inoue,JPN,1995,2T4z 5 5,13,1T3z 3 11,15,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,16,Alberto,Ginés López,ESP,2002,3T4z 12 12,5,1T3z 4 13,16,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,17,Sam,Avezou,FRA,2001,2T5z 2 7,6,1T2z 1 8,17,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,18,Sean,McColl,CAN,1987,2T3z 3 5,15,1T2z 4 3,18,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,19,Max,Kleesattel,GER,1998,2T4z 10 12,14,1T2z 4 5,19,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,20,Satone,YOSHIDA,JPN,2004,2T3z 7 4,18,0T3z 0 12,20,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,21,Taisei,Ishimatsu,JPN,1996,1T4z 2 12,21,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,22,Chua,Dennis,SGP,1991,1T3z 1 6,22,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,23,Adrien,Lemaire,FRA,1999,1T3z 2 4,23,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,24,Philipp,Martin,GER,1994,1T3z 2 6,24,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,25,Alex,Khazanov,ISR,1995,1T3z 3 9,25,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,25,Palmer,Larsen,USA,1995,1T3z 3 9,25,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,27,Manuel,Cornu,FRA,1993,1T2z 4 2,27,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,28,Sungsu,LEE,KOR,1999,1T1z 1 1,28,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,29,Guy,McNamee,CAN,2002,0T3z 0 3,29,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,30,Benjamin,Hanna,USA,1998,0T3z 0 6,30,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,31,Nimrod,Marcus,ISR,1999,0T3z 0 7,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,31,Julien,Clémence,SUI,2001,0T3z 0 7,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,31,SUNGJOON,CHAE,KOR,1993,0T3z 0 7,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,34,Anze,Peharc,SLO,1997,0T3z 0 8,34,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,35,Zan,Lovenjak Sudar,SLO,1998,0T2z 0 2,35,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,36,Michael,Piccolruaz,ITA,1995,0T2z 0 3,36,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,37,Nathan,Phillips,GBR,1994,0T2z 0 4,37,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,37,Joe,Goodacre,USA,2001,0T2z 0 4,37,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,39,Nils,Favre,SUI,1991,0T2z 0 6,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,39,WONWOO,HAN,KOR,2003,0T2z 0 6,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,39,Shinyeong,YUN,KOR,1995,0T2z 0 6,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,42,Elias,Arriagada Krüger,GER,2000,0T2z 0 7,42,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,42,Liam,Healy,AUS,1997,0T2z 0 7,42,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,44,Oscar,Baudrand,CAN,2005,0T2z 0 11,44,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,45,MINYOUNG,LEE,KOR,1999,0T1z 0 1,45,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,45,Ross,Fulkerson,USA,2001,0T1z 0 1,45,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,45,Nino,Grünenfelder,SUI,2001,0T1z 0 1,45,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,48,DOHYEON,KIM,KOR,2005,0T1z 0 2,48,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,48,Yotam,Ben reuven,ISR,2001,0T1z 0 2,48,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,48,Luke,GOH WEN BIN,SGP,2002,0T1z 0 2,48,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,51,Sunghoon,PARK,KOR,2003,0T1z 0 5,51,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,52,MUHAMMAD FERZA FERNADA,ABDI,INA,2003,0T0z 0 0,52,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Men,52,MINSUNG,HAN,KOR,2001,0T0z 0 0,52,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,1,Natalia,Grossman,USA,2001,5T5z 6 5,1,4T4z 10 10,1,,,,,4T4z 7 5,1
+Seoul,KOR,2022,BS,WC,boulder,Women,2,Oriane,Bertone,FRA,2005,4T5z 10 7,4,3T3z 5 5,5,,,,,3T4z 5 5,2
+Seoul,KOR,2022,BS,WC,boulder,Women,3,Brooke,Raboutou,USA,2001,2T4z 7 8,16,3T4z 11 10,4,,,,,3T3z 6 5,3
+Seoul,KOR,2022,BS,WC,boulder,Women,4,Stasa,Gejo,SRB,1997,5T5z 10 8,2,3T3z 8 7,6,,,,,2T4z 3 13,4
+Seoul,KOR,2022,BS,WC,boulder,Women,5,Camilla,Moroni,ITA,2001,4T5z 5 8,3,4T4z 18 15,2,,,,,1T2z 6 8,5
+Seoul,KOR,2022,BS,WC,boulder,Women,6,Mia,AOYAGI,JPN,2003,3T3z 7 6,10,3T4z 8 12,3,,,,,0T3z 0 4,6
+Seoul,KOR,2022,BS,WC,boulder,Women,7,Jessica,Pilz,AUT,1996,3T5z 8 8,8,2T4z 6 10,7,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,8,Miho,Nonaka,JPN,1997,4T5z 11 5,6,2T3z 4 6,8,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,9,Flavy,Cohaut,FRA,2001,2T5z 7 11,12,2T3z 11 13,9,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,10,Cloe,Coscoy,USA,2001,2T4z 5 17,15,2T2z 5 5,10,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,11,Kylie,Cullen,USA,2004,2T4z 5 9,13,2T2z 8 6,11,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,12,Lucka,Rakovec,SLO,2001,2T5z 2 6,11,2T2z 9 9,12,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,13,Sol,SA,KOR,1994,3T5z 10 14,9,1T4z 2 14,13,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,14,Franziska,Sterrer,AUT,1998,4T5z 10 15,5,1T3z 1 17,14,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,15,Futaba,Ito,JPN,2002,4T5z 14 16,7,1T2z 1 3,15,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,16,Sofya,Yokoyama,SUI,1998,1T5z 2 11,19,1T2z 1 11,16,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,17,Roxana,Wienand,GER,2000,2T4z 5 10,14,1T2z 2 4,17,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,18,Emily,Phillips,GBR,2002,2T3z 3 6,18,0T2z 0 7,18,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,19,Afra,Hönig,GER,1995,1T5z 2 15,20,0T2z 0 14,19,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,20,Laura,Rogora,ITA,2001,2T4z 10 19,17,0T1z 0 5,20,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,21,Johanna,Färber,AUT,1998,1T5z 2 21,21,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,22,Fanny,Gibert,FRA,1993,1T5z 3 12,22,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,23,Vanessa Si Yinn,Teng,SGP,1996,1T4z 1 12,23,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,24,Clothilde,Morin,FRA,2000,1T4z 3 6,24,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,25,Chaehyun,SEO,KOR,2003,1T4z 5 9,25,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,26,Mia,Krampl,SLO,2000,1T4z 6 16,26,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,27,Alannah,Yip,CAN,1993,1T3z 1 5,27,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,28,Nanako,Kura,JPN,2000,1T3z 1 7,28,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,29,Leonie,Lochner,GER,2000,1T3z 2 7,29,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,30,Chloe,Caulier,BEL,1996,1T3z 3 9,30,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,31,Mailys,Piazzalunga,FRA,2001,1T3z 4 15,31,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,32,Maya,Madere,USA,1999,1T2z 2 2,32,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,33,Lucia,Dörffel,GER,2000,1T2z 6 6,33,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,34,Holly,Toothill,GBR,2001,0T4z 0 16,34,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,35,Sienna,Kopf,USA,2002,0T3z 0 8,35,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,36,Gayeong,OH,KOR,2006,0T3z 0 10,36,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,37,Babette,Roy,CAN,2002,0T2z 0 6,37,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,38,Saki,Kikuchi,JPN,2002,0T2z 0 8,38,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,39,Aida,Torres Illamola,ESP,2002,0T2z 0 9,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,39,Zélia,Avezou,FRA,2004,0T2z 0 9,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,39,Adriene,Clark,USA,2004,0T2z 0 9,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,39,Rebecca,Frangos,CAN,1997,0T2z 0 9,39,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,43,Yejin,JUNG,KOR,2004,0T2z 0 10,43,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,44,Xu,Liting,SGP,1988,0T2z 0 11,44,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,45,Jennifer,Wood,GBR,1994,0T1z 0 3,45,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,45,SEUNGHYUN,KIM,KOR,1997,0T1z 0 3,45,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,47,Indiana,Chapman,CAN,2003,0T1z 0 4,47,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,48,Grace,Crowley,AUS,2003,0T1z 0 8,48,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,48,Yejoo,SEO,KOR,2006,0T1z 0 8,48,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,50,Elizabeth,Sepulveda,PUR,2002,0T1z 0 9,50,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,51,JIHYEON,LIM,KOR,2006,0T0z 0 0,51,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,51,NAWOO,CHOI,KOR,2002,0T0z 0 0,51,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,51,HEEYEON,PARK,KOR,1992,0T0z 0 0,51,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,51,Dasom,YUN,KOR,2005,0T0z 0 0,51,,,,,,,,
+Seoul,KOR,2022,BS,WC,boulder,Women,51,NUR,KHALISHAH,INA,2004,0T0z 0 0,51,,,,,,,,
